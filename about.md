@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I'm a 3th year undergraduate student currently studying at Maastricht University in Psychology majoring in Neuroscience. Planning on graduating in the summer of 2019. 
+I'm a 3th year undergraduate student currently studying at Maastricht University in Psychology majoring in Neuroscience. Planning on graduating in the summer of 2019. Looking for a Master in Artificial Intelligence / System Biology afterwards. 
 
-I'm passionate about applying my knowledge of computer science and machine learning to areas
+I'm passionate about applying my knowledge of computer science and machine learning in neuroscience and advancing my knowledge of complex systems, chaotic behavior and deep simplicity.
+
 
 ### Education
 * **Example** (June 2016 - September 2016)
