@@ -10,7 +10,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 
 ### Education
-<img src="/assets/Goethe.png" width="250"> 
+<img src="/assets/Goethe.png" width="220"> 
 
 * **Goethe University, Frankfurt** Economics, average 1.9 (June 2013 - September 2016)
   - focusing on micro- and macroeconomics
@@ -28,7 +28,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Research Experience
 
-<img src="/assets/JPU2.jpg" width="250">   
+<img src="/assets/JPU2.jpg" width="200">   
 cooperation EU
 
 * **Research at Mainz University** (June 2014 - August 2014)
