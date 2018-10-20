@@ -19,6 +19,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 * **Maastricht University, Maastricht** Psychology, average  (September 2016 - June 2019)
   - focusing on neurobiology and cognitive psychology
   - courses like:
+  - part of the MaRBLe excellence programme
   - bachelor theis about artifical neural networks and scene recognition
 
 ### Research Experience
@@ -29,6 +30,10 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 * **Research at Mainz University** (June 2014 - August 2014)
   - working on an public good game adjusted for the needs of children
+
+* **Research at Maastricht University** (August 2018 - February 2019)
+  - working on convolutional neural networks optimized for multi-modal scene recognition
+  
 
 ### Teaching
 
