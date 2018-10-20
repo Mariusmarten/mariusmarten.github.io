@@ -10,11 +10,15 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 
 ### Education
+<img src="/assets/Goethe.png" width="250"> 
+
 * **Goethe University, Frankfurt** Economics, average 1.9 (June 2013 - September 2016)
   - focusing on micro- and macroeconomics
   - courses like: 
   - bachelor thesis based in empircal research about cooperation norms within an Public Good Game
   - [Bachelor Thesis](http://www.kdnuggets.com/author/adit-deshpande){:target="_blank"}
+
+<img src="/assets/Maasi.png" width="250"> 
 
 * **Maastricht University, Maastricht** Psychology, average  (September 2016 - June 2019)
   - focusing on neurobiology and cognitive psychology
@@ -25,7 +29,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 ### Research Experience
 
 
-<img src="/assets/jpu.png" width="250">   
+<img src="/assets/JPU2.png" width="250">   
 
 add logo Mainz University / + cooperation EU                                  
 
