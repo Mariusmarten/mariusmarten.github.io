@@ -12,11 +12,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 ### Education
 <div>
     <p style="float: left;"><img src="/assets/Goethe.png" width="120" height="200px" width="200px" border="1px"></p>
-    <p>* **Goethe University, Frankfurt** Economics, average 1.9 (June 2013 - September 2016)
-              - focusing on micro- and macroeconomics
-              - courses like: 
-              - bachelor thesis based in empircal research about cooperation norms within an Public Good Game
-              - [Bachelor Thesis](http://www.kdnuggets.com/author/adit-deshpande){:target="_blank"}</p>
+    <p>jknFNngoMÜORMG</p>
 </div>
 
 
