@@ -10,11 +10,6 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 
 ### Education
-<div>
-    <p style="float: left;"><img src="/assets/Goethe.png" width="120" height="200px" width="200px" border="1px"></p>
-    <p>jknFNngoMÜORMG</p>
-</div>
-
 
 <img src="/assets/Goethe.png" width="120"> 
 
