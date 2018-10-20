@@ -10,7 +10,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 
 ### Education
-<img src="/assets/Goethe.png" width="220"> 
+<img src="/assets/Goethe.png" width="120"> 
 
 * **Goethe University, Frankfurt** Economics, average 1.9 (June 2013 - September 2016)
   - focusing on micro- and macroeconomics
@@ -28,13 +28,13 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Research Experience
 
-<img src="/assets/JPU2.jpg" width="200">   
+<img src="/assets/JPU2.jpg" width="150">   
 cooperation EU
 
 * **Research at Mainz University** (June 2014 - August 2014)
   - working on an public good game adjusted for the needs of children
 
-<img src="/assets/EDLAB-logo-UM2.jpg" width="250">   
+<img src="/assets/EDLAB-logo-UM2.jpg" width="180">   
 
 * **Research at Maastricht University** (August 2018 - February 2019)
   - working on convolutional neural networks optimized for multi-modal scene recognition
