@@ -18,7 +18,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
   - bachelor thesis based in empircal research about cooperation norms within an Public Good Game
   - [Bachelor Thesis](http://www.kdnuggets.com/author/adit-deshpande){:target="_blank"}
 
-<img src="/assets/Maasi.png" width="250"> 
+<img src="/assets/Maasi.png" width="150"> 
 
 * **Maastricht University, Maastricht** Psychology, average  (September 2016 - June 2019)
   - focusing on neurobiology and cognitive psychology
@@ -28,7 +28,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Research Experience
 
-<img src="/assets/JPU2.jpg" width="150">   
+<img src="/assets/JPU2.jpg" width="180">   
 cooperation EU
 
 * **Research at Mainz University** (June 2014 - August 2014)
