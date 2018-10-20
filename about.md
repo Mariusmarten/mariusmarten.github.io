@@ -25,12 +25,13 @@ I'm passionate about applying my knowledge of computer science and machine learn
 ### Research Experience
 
 
-<img src="/assets/clarifai.png" width="250">   add logo Mainz University / + cooperation EU                                  
+<img src="/assets/jpu.png" width="250">   add logo Mainz University / + cooperation EU                                  
 
 
 * **Research at Mainz University** (June 2014 - August 2014)
   - working on an public good game adjusted for the needs of children
 
+<img src="/assets/EDLAB-logo-UM2.jpg" width="250">
 * **Research at Maastricht University** (August 2018 - February 2019)
   - working on convolutional neural networks optimized for multi-modal scene recognition
   
