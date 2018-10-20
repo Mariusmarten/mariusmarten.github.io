@@ -10,18 +10,15 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 
 ### Education
-* **Example** (June 2016 - September 2016)
+* **Goethe University, Frankfurt** Economics (June 2013 - September 2016)
+* **Maastricht University, Maastricht** Psychology (September 2016 - June 2019)
 
 ### Experience
 
+
 <img src="/assets/clarifai.png" width="250">                    <img src="/assets/qualcomm.jpg" width="250">                     <img src="/assets/nrl.png" width="80">                     <img src="/assets/bu.gif" width="175">
 
-* **Example** (June 2016 - September 2016)
-  - Developed object localization algorithms through convolutional neural networks for deployment on IBM's TrueNorth neuromorphic chip. 
-  - Wrote Matlab functions and shell scripts to format and preprocess datasets.
-  - Implemented a selective search and sliding window based approach to localization.
-  - Trained a convolutional neural network to place bounding boxes over a specific object of interest with a classification accuracy of 92.86%.
-  - Presented results to a group of engineers and upper level management at the conclusion of the internship.
+
 * **Research at Mainz University** (June 2014 - August 2014)
   - 
 
