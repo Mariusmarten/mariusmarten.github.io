@@ -10,8 +10,15 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 
 ### Education
-* **Goethe University, Frankfurt** Economics (June 2013 - September 2016)
-* **Maastricht University, Maastricht** Psychology (September 2016 - June 2019)
+* **Goethe University, Frankfurt** Economics, average 1.9 (June 2013 - September 2016)
+- focusing on micro- and macroeconomics
+- courses like: 
+- bachelor thesis based in empircal research about cooperation norms within an Public Good Game
+
+* **Maastricht University, Maastricht** Psychology, average  (September 2016 - June 2019)
+- focusing on neurobiology and cognitive psychology
+- courses like:
+- bachelor theis about artifical neural networks and scene recognition
 
 ### Experience
 
