@@ -25,7 +25,9 @@ I'm passionate about applying my knowledge of computer science and machine learn
 ### Research Experience
 
 
-<img src="/assets/jpu.png" width="250">   add logo Mainz University / + cooperation EU                                  
+<img src="/assets/jpu.png" width="250">   
+
+add logo Mainz University / + cooperation EU                                  
 
 
 * **Research at Mainz University** (June 2014 - August 2014)
