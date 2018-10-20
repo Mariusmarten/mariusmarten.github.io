@@ -14,6 +14,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 - focusing on micro- and macroeconomics
 - courses like: 
 - bachelor thesis based in empircal research about cooperation norms within an Public Good Game
+* [Bachelor Thesis](http://www.kdnuggets.com/author/adit-deshpande){:target="_blank"}
 
 * **Maastricht University, Maastricht** Psychology, average  (September 2016 - June 2019)
 - focusing on neurobiology and cognitive psychology
@@ -36,7 +37,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 *
 
 ### Unpublished Writing
-* [Bachelor Thesis](http://www.kdnuggets.com/author/adit-deshpande){:target="_blank"}
+
 
 ### Teaching
 
