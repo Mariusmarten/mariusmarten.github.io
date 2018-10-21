@@ -23,7 +23,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 * **Maastricht University, Maastricht** Psychology, average  (September 2016 - June 2019)
   - focusing on neurobiology and cognitive psychology
-  - courses like:
+  - courses like: statisitcs, complex cognition, man and machine, neuroanatomy
   - part of the MaRBLe excellence programme
   - bachelor thesis about artifical neural networks and scene recognition
 
@@ -47,6 +47,11 @@ cooperation EU
   - computational modeling, machine learning, ANNs, computer vision, aritifical intelligence
   - network theory, graph analysis
   - cognitive science, consciousness, IIT
+  
+### Programming / Frameworks
+  - python
+  - Keras/ Tensorflow
+  - basic HTML
 
 ### Teaching
 
