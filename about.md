@@ -45,7 +45,7 @@ cooperation EU
 ### Research Interest
   - computational neuroscience, systems biology
   - computational modeling, machine learning, ANNs, computer vision, aritifical intelligence
-  - network theory, graph analysis
+  - network theory, graph analysis, complex systems, fractals
   - cognitive science, consciousness, IIT
   
 ### Programming / Frameworks
