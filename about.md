@@ -33,8 +33,10 @@ I'm passionate about applying my knowledge of computer science and machine learn
 cooperation EU
 
 * **Research at Mainz University** (June 2014 - August 2014)
-  - working on an public good game adjusted for the needs of children
-
+  -'the determinants of cooperation and behavior of children in public good games'
+  - in cooperation with the Faculty of Business and Economics Management and Microeconomics at Goethe-University
+  - planning, coordination, documentation and analysis of the results
+ 
 <img src="/assets/EDLAB-logo-UM2.jpg" width="180">   
 
 * **Research at Maastricht University** (August 2018 - February 2019)
