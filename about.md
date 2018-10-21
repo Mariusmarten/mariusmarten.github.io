@@ -14,8 +14,8 @@ I'm passionate about applying my knowledge of computer science and machine learn
 <img src="/assets/Goethe.png" width="120"> 
 
 * **Goethe University, Frankfurt** Economics, average 1.9 (June 2013 - September 2016)
-  - focusing on micro- and macroeconomics
-  - courses like: business cycle theory and policy, labor economics, 
+  - focusing on micro- and macroeconomics (game theory, cooperation, agency theory)
+  - courses like: business cycle theory and policy, labor economics, finance and inequality
   - bachelor thesis based in empircal research about cooperation norms within an Public Good Game
   - [Bachelor Thesis](http://www.kdnuggets.com/author/adit-deshpande){:target="_blank"}
 
