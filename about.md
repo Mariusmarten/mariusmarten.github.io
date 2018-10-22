@@ -21,7 +21,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 <img src="/assets/Maasi.png" width="150"> 
 
-* **Maastricht University, Maastricht** Psychology, average  (September 2016 - June 2019)
+* **Maastricht University, Maastricht** Bachelor of Science in Psychology, average  (September 2016 - June 2019)
   - focusing on neurobiology and cognitive psychology
   - courses like: statisitcs, complex cognition, man and machine, neuroanatomy
   - part of the MaRBLe excellence programme
