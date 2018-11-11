@@ -6,6 +6,8 @@ permalink: /about/
 
 I'm a 3th year undergraduate student currently studying at Maastricht University in Psychology majoring in Neuroscience. Planning on graduating in the summer of 2019. Looking for a Master in Artificial Intelligence / System Biology afterwards. 
 
+‚I wanna believe as many true things and has few false things as possible.‘
+
 I'm passionate about applying my knowledge of computer science and machine learning in neuroscience and advancing my knowledge of complex systems, chaotic behavior and deep simplicity.
 
 
