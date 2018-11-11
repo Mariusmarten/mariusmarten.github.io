@@ -54,7 +54,7 @@ cooperation EU
   - python
   - Keras/ Tensorflow
   - basic HTML
-  - mathlab
+  - octave/mathlab
 
 ### Teaching
 
