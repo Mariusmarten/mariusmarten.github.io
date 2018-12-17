@@ -13,11 +13,18 @@ Investiagting the possible relationship between a state of 'being in the flow' a
 
 Maastricht, 2018: Machine Consciousness
 ====================
-Paper about State of the art in achieving machine consciousness by using cognitive frameworks
+Review paper about the state of the art in achieving machine consciousness by using cognitive frameworks. Assessing the gloabal workspace hypthesis, Tononis integrated information theory and importance of an internal selfmodel.
 
 
 Frankfurt, 2016: Determinants of cooperation
 ====================
+
+
+project title ‘the determinants of cooperation and behavior of children in public good games’
+in cooperation with the Faculty of Business and Economics Management and Microeconomics at Goethe-University
+planning, coordination, documentation and analysis of the results
+
+cooperation norms within an Public Good Game
 
 
 Frankfurt, 2015: Inequality  and  Finance
