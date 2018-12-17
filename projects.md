@@ -3,6 +3,8 @@ layout: page
 permalink: /projects/
 ---
 
+====================
+
 Maastricht, ongoing: Cross-Modal CNN - Image and Scene Recognition
 ====================
 Cross-Modal Convolutional Neural Network
