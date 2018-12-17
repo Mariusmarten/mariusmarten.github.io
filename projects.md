@@ -20,7 +20,7 @@ The positive psychology concept flow is defined as the rewarding experience of b
 Maastricht, 2018: Machine Consciousness
 ====================
 Review paper about the state of the art in achieving machine consciousness by using cognitive frameworks. Assessing the gloabal workspace hypthesis, Tononis integrated information theory and importance of an internal selfmodel.
-  - [Machine Consciousness]("./Artifical-Consciousness_Final2.pdf"){:target="_blank"}
+  - [Machine Consciousness]("2018_Artifical_Consciousness.pd"){:target="_blank"}
 
 
 Frankfurt, 2016: Determinants of cooperation
