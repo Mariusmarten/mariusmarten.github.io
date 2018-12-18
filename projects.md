@@ -9,6 +9,8 @@ Neuroscience - Maastricht, ongoing: Cross-Modal CNN - Image and Scene Recognitio
 ====================
 Cross-Modal Convolutional Neural Network
 
+Describing biological motivation for computer vision in general and convolutional neural networks especially. 
+
 
 Neuroscience - Maastricht, 2018: Flow & Memory
 ====================
