@@ -27,14 +27,8 @@ Review paper about the state of the art in achieving machine consciousness by us
 
 Economics - Frankfurt, 2016: Determinants of Cooperation
 ====================
-Assessing determinants of cooperation and behavior of children during a public good game. 
-
-
-in cooperation with the Faculty of Business and Economics Management and Microeconomics at Goethe-University
-planning, coordination, documentation and analysis of the results
-cooperation norms within an Public Good Game
-
-- [Paper: Determinants of Cooperation (in German)]({{mariusmarten.github.io}}/.pdf)
+Assessing determinants of cooperation and behavior of during a public good game in general and for children especially. Taking into consideration factors such as punishment, anonymity, communitation within the game, number of players and repetition of the game. An approach is given how ingroup behavior, norms, rituals, laws and context might influence individuals decision making. Additionaly, some parameters were presented that make the game better suited for children. 
+- [Paper: Determinants of Cooperation (in German)]({{mariusmarten.github.io}}/projects/2016_Determinants of Cooperation.pdf)
 
 
 Economics - Frankfurt, 2015: Finance and Inequality
