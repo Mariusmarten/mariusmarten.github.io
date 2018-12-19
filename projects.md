@@ -5,12 +5,9 @@ permalink: /projects/
 
 ====================
 
-Neuroscience - Maastricht, ongoing: Cross-Modal CNN - Image and Scene Recognition
+Neuroscience - Maastricht, 2019: Cross-Modal CNN - Image and Scene Recognition
 ====================
-My project is about reusing pretrained artificial neural networks to apply them on modalities they have not been trained on. I will try to adjust the models through hyperparameter optimization to improve their accuracy during classification tasks. The classified datasets will consist of natural images, clip art and drawings, all showing different scenes. 
-Cross-Modal Convolutional Neural Network.
-
-Describing biological motivation for computer vision in general and convolutional neural networks especially.
+Project about reusing pretrained convolutional neural networks to apply them on modalities they have not been trained on. The tasks consists of an scene recongition task in images. The task will be mutlimodal due to classifying datasets consisting of natural images, clip art and drawings. Additionaly the paper describes biological motivation for computer vision in general and convolutional neural networks especially.
 - [Draft: Cross-modal CNN]({{mariusmarten.github.io}}/projects/2019_First_Draft_Cross_Modal_Networks.pdf)
 
 Neuroscience - Maastricht, 2018: Flow & Memory
