@@ -31,6 +31,7 @@ Economics - Frankfurt, 2016: Determinants of Cooperation
 ====================
 Assessing determinants of cooperation and behavior of during a public good game in general and for children especially. Taking into consideration factors such as punishment, anonymity, communitation within the game, number of players and repetition of the game. An approach is given how ingroup behavior, norms, rituals, laws and context might influence individuals decision making. Additionaly, some parameters were presented that make the game better suited for children. 
 - [Paper: Determinants of Cooperation (in German)]({{mariusmarten.github.io}}/projects/2016_Determinants of Cooperation.pdf)
+- [Paper: Determinants of Cooperation (in German)]({{mariusmarten.github.io}}/projects/2018_Artifical_Consciousness.pdf)
 
 
 Economics - Frankfurt, 2015: Finance and Inequality
