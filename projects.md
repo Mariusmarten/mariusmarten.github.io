@@ -27,17 +27,21 @@ Review paper about the state of the art in achieving machine consciousness by us
 
 Economics - Frankfurt, 2016: Determinants of Cooperation
 ====================
-project title ‘the determinants of cooperation and behavior of children in public good games’
+Assessing determinants of cooperation and behavior of children during a public good game. 
+
+
 in cooperation with the Faculty of Business and Economics Management and Microeconomics at Goethe-University
 planning, coordination, documentation and analysis of the results
 cooperation norms within an Public Good Game
 
-- [Paper: Determinants of Cooperation]({{mariusmarten.github.io}}/.pdf)
+- [Paper: Determinants of Cooperation (in German)]({{mariusmarten.github.io}}/.pdf)
 
 
-Economicy - Frankfurt, 2015: Inequality  and  Finance
+Economics - Frankfurt, 2015: Finance and Inequality
 ====================
-Quantiative analysis of how Finance affects distribution and equality of opportunity. 
+Quantiative analysis of how finance affects distribution and equality of opportunity. 
+- [Paper: Finance and Inequlity]({{mariusmarten.github.io}}/.pdf)
+
 
 Kaggle Competitions
 ====================
