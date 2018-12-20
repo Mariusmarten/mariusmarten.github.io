@@ -19,7 +19,6 @@ I'm passionate about applying my knowledge of computer science and machine learn
   - focusing on micro- and macroeconomics (game theory, cooperation, agency theory)
   - courses like: business cycle theory and policy, labor economics, finance and inequality
   - bachelor thesis based in empircal research about cooperation norms within an Public Good Game
-  - [Bachelor Thesis](http://www.kdnuggets.com/author/adit-deshpande){:target="_blank"}
 
 <img src="/assets/Maasi.png" width="150"> 
 
