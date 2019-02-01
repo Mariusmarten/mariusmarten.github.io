@@ -39,7 +39,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 ### Research Experience
 
-<img src="/assets/JPU2.jpg" width="180">   
+<img src="/assets/JGU2.jpg" width="180">   
 
 * **Research at Mainz University** (June 2014 - August 2014)
   - project title 'the determinants of cooperation and behavior of children in public good games'
