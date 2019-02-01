@@ -30,6 +30,8 @@ I'm passionate about applying my knowledge of computer science and machine learn
   - part of the MaRBLe excellence programme
   - bachelor thesis about artifical neural networks and scene recognition
   
+<img src="/assets/Ubaya.png" width="150"> 
+  
 * **Ubaya University - Surabaya, Indonesia** Semester Abroad (August 2018 - January 2019)
   - average A (A-D) 
   - strengthening intercultural competence
