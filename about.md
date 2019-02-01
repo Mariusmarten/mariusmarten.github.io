@@ -42,7 +42,7 @@ cooperation EU
 
 * **Research at Maastricht University** (August 2018 - February 2019)
   - working on convolutional neural networks optimized for multi-modal scene recognition
-  - re-using a network pretrained on the places365 dataset (natural images) for clip art and sketches
+  - re-using a network pretrained on the places205 dataset (natural images) for clip art and sketches
   - implemented in keras with tensorflow backend
 
 ### Research Interest
@@ -56,6 +56,7 @@ cooperation EU
   - Keras/ Tensorflow
   - basic HTML
   - octave/mathlab
+  - experienced in LaTeX/Overleaf
 
 ### Teaching
 
