@@ -15,20 +15,23 @@ I'm passionate about applying my knowledge of computer science and machine learn
 
 <img src="/assets/Goethe.png" width="120"> 
 
-* **Goethe University - Frankfurt, Germany** Bachelor of Science in Economics, average 1.9 (1.0-4.0) (June 2013 - September 2016)
+* **Goethe University - Frankfurt, Germany** Bachelor of Science in Economics (June 2013 - September 2016)
+  - average 1.9 (1.0-4.0)
   - focusing on micro- and macroeconomics (game theory, cooperation, agency theory)
   - courses like: business cycle theory and policy, labor economics, finance and inequality
   - bachelor thesis based in empircal research about cooperation norms within an Public Good Game
 
 <img src="/assets/Maasi.png" width="150"> 
 
-* **Maastricht University - Maastricht, Netherlands** Bachelor of Science in Psychology, average 7,95 (6-10) (September 2016 - June 2019)
+* **Maastricht University - Maastricht, Netherlands** Bachelor of Science in Psychology (September 2016 - June 2019)
+  - average 7,95 (6-10)
   - focusing on neurobiology and cognitive psychology
   - courses like: statisitcs, complex cognition, man and machine, neuroanatomy
   - part of the MaRBLe excellence programme
   - bachelor thesis about artifical neural networks and scene recognition
   
-* **Universitas Surabaya - Surabaya, Indonesia** Semester Abroad, average A (A-D) (August 2018 - January 2019)
+* **Universitas Surabaya - Surabaya, Indonesia** Semester Abroad (August 2018 - January 2019)
+  - average A (A-D) 
   - strengthening intercultural competence
   - course on computer organization and architecture
 
