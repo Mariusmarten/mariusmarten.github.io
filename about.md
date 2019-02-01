@@ -8,9 +8,9 @@ I'm a 3th year undergraduate student currently studying at Maastricht University
 
 ‚I wanna believe as many true things and has few false things as possible.‘
 
-I'm passionate about applying my knowledge of computer science and machine learning in neuroscience and advancing my knowledge of complex systems, chaotic behavior and deep simplicity.
+I'm passionate about applying my knowledge of computer science and machine learning in neuroscience and advancing my knowledge of complex systems and chaos.
 
-
+behavior
 ### Education
 
 <img src="/assets/Goethe.png" width="120"> 
