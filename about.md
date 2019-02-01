@@ -10,7 +10,6 @@ I'm a 3th year undergraduate student currently studying at Maastricht University
 
 I'm passionate about applying my knowledge of computer science and machine learning in neuroscience and advancing my knowledge of complex systems and chaos.
 
-behavior
 ### Education
 
 <img src="/assets/Goethe.png" width="120"> 
