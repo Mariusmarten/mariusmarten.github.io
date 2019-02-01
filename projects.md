@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/
+permalink: /projects/
 ---
 Projects done from 2015 onwards.
  
