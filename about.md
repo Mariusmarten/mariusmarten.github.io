@@ -44,7 +44,7 @@ behavior
 * **Research at Mainz University** (June 2014 - August 2014)
   - project title 'the determinants of cooperation and behavior of children in public good games'
   - in cooperation with the Faculty of Business and Economics Management and Microeconomics at Goethe-University
-  - planning, coordination, documentation and analysis of the results
+  - planning, coordination, documentation and analysis of the results during quantiative experiment about cooperation
  
 <img src="/assets/EDLAB-logo-UM2.jpg" width="180">   
 
