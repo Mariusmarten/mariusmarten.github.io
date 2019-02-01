@@ -16,7 +16,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 <img src="/assets/Goethe.png" width="120"> 
 
 * **Goethe University - Frankfurt, Germany** Bachelor of Science in Economics (June 2013 - September 2016)
-  - average 1.9 (1.0-4.0)
+  - average grade 1.9 (1.0-4.0)
   - focusing on micro- and macroeconomics (game theory, cooperation, agency theory)
   - courses like: business cycle theory and policy, labor economics, finance and inequality
   - bachelor thesis based in empircal research about cooperation norms within an Public Good Game
@@ -24,7 +24,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 <img src="/assets/Maasi.png" width="150"> 
 
 * **Maastricht University - Maastricht, Netherlands** Bachelor of Science in Psychology (September 2016 - June 2019)
-  - average 7,95 (6-10)
+  - average grade 7,95 (6-10)
   - focusing on neurobiology and cognitive psychology
   - courses like: statisitcs, complex cognition, man and machine, neuroanatomy
   - part of the MaRBLe excellence programme
@@ -33,7 +33,7 @@ I'm passionate about applying my knowledge of computer science and machine learn
 <img src="/assets/ubaya.png" width="150"> 
   
 * **Ubaya University - Surabaya, Indonesia** Semester Abroad (August 2018 - January 2019)
-  - average A (A-D) 
+  - average grade A (A-D) 
   - strengthening intercultural competence
   - course on computer organization and architecture
 
