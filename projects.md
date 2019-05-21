@@ -7,7 +7,7 @@ Projects done from 2015 onwards.
 Neuroscience - Maastricht, 2019: Cross-Modal CNNs
 ====================
 Project about reusing pretrained convolutional neural networks to apply them on modalities they have not been trained on. The project is to solve an scene recongition task across domains namely natural images, clip art and drawings. Additionaly the paper describes biological motivation for computer vision in general and convolutional neural networks especially.
-- [Draft: Cross-modal CNN]({{mariusmarten.github.io}}/projects/2019_First_Draft_Cross_Modal_Networks.pdf)
+- [Paper: Multi-Source Domain Adaptation]({{mariusmarten.github.io}}/projects/BT_TransferLearning_CN.pdf)
 
 Neuroscience - Maastricht, 2018: Flow & Memory
 ====================
