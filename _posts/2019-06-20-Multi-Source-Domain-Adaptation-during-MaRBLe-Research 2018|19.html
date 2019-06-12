@@ -21,7 +21,8 @@ images:
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The picture on the left shows the input of the network, consisting of an RGB image.  Thenetwork consists of packages of convolution layers followed by an activation function, namely a rectified linear unit (ReLU)and finally a maxpooling layer.  Those packages are repeated and followed by three fully connected layers.  Convolution andmaxpooling layers, shown in orange and red are frozen during training. The fully connected layers (here abbreviated with fc)make up the classifier, shown in purple.  Everything prior to the classifier is frozen and only the classifier is trained.</p>
 <p><img src="/assets/1_representation_network.png" /></p>
 
-<h2><u>Natural Language Processing</u></h2>
+<h2><u>Mapping Mechanisms</u></h2>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o assess the research questions in an experimental man-ner, a pretrained network is used instead of training a networkfrom scratch. The image classification architecture chosen isthe VGG16 assembled by Simonyan and Zisserman (2014).It is well established and has a feedforward architecture. Thisway the network is well equipped to map the input, the im-ages, to the output, the labels.  The VGG16 architecture isretained,  consisting  of  14.714.688  million  parameters  par-tioned over 13 convolutional layers.  The 5 maxpooling lay-ers and the ReLU which is applied after every convolutionallayer, do not add further parameters.</p>
 <p><img src="/assets/5Years6.png" /></p>
 
 <h2><u>Conclusion</u></h2>
