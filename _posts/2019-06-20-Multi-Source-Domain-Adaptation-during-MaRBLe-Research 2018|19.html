@@ -11,11 +11,11 @@ images:
 <h2><u>Introduction </u></h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Humans are able to recognize scenes independently of the modality they perceive it in. In this paper, it is tested if scene specific features extracted from natural images are reusable for classifying clip art and sketches. Further, the ability of networks to hold multiple representations simultaneously is examined. To study this problem a pretrained convolutional neural network is used. Further, a randomly initialized classifier is added and retrained. The representations of clip art achieve the highest results, followed by sketches. Natural image performance remains notably below prior results. The experiment suggests that the overall transferability of learned features is not only limited by the distance but also by the diversity of the input distribution. Moreover, a multimodal representation is shown to be feasible but only poorly. Further research is needed to explain the obtained outcomes and to explain why they deviate from previous expectations.
   
+<p><img src="/assets/1_Overview-size1.png" /></p>
 <h2><u>Can you recognize scenes across different styles? </u></h2>
 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The  input  variables  consist  of  natural  images  from  theScene205  dataset  collected  and  curated  by  B.  Zhou  et  al.(2014).   An  exhaustive  list  of  the  classes  can  be  found  inappendix 1. The set contains around 2.5 million images from205 scene categories.  The compressed file contains resized 256*256  images,  split  into  a  train  set  and  a  validation  setof Places 205 with a size of 126GB. Due to computationallimitations the number of pictures is reduced to around 80pictures  per  object,  so  that  16,400  pictures  remain.    Thesketch images consist of 14,830 training and 2,050 valida-tion  sketches  collected  through  Amazon  Mechanical  Turk,whereby different colors indicate different objects.  The clipart  data  includes  11,372  training  and  1,954  validation  clipart images downloaded from search engines.  Sketches andclip  art  were  assembled  by  Aytar  et  al.  (2018). </em></p>
-<p><img src="/assets/1_Overview-size1.png" /></p>
 <p>The figure shows a kitchen and an office (concepts) acrossdifferent modalities (clip art, sketches and natural images)..</p>
 
 
