@@ -9,6 +9,7 @@ A collection of resources for Machine Learning, Computational Neuroscience and C
 ### Computational Neuroscience/ Neurophysics
 - Miller's [An Introductory Course in Computational Neuroscience](https://mitpress.mit.edu/books/introductory-course-computational-neuroscience) textbook
 - Izhikevich's [Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting](https://www.izhikevich.org/publications/dsn.pdf) textbook
+- Gestner's online book [Neuronal Dynamics: From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch/online/index.html) and [lectures](https://lcnwww.epfl.ch/gerstner/NeuronalDynamics-MOOCall.html)
 - EPFL [Blue Brain Massive Open Online](https://www.epfl.ch/research/domains/bluebrain/blue-brain/massive-open-online-courses/) courses
 
 ### Machine Learning
