@@ -3,8 +3,8 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-# Resources
-A collection of resources for Machine Learning and Computational Neuroscience, I find useful or interesting.
+
+A collection of resources for Machine Learning, Computational Neuroscience and Complex Systems, I find useful or interesting.
 
 ### Computational Neuroscience
 
