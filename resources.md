@@ -16,6 +16,10 @@ A collection of resources for Machine Learning, Computational Neuroscience and C
 - Murphy’s [Machine Learning: a Probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf)
 - 
 
+- Berkleys [Deep Reinforcement Learning Course](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- Deepminds [Introduction to reinforcement learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+- Deepminds [Advanced Deep Learning & Reinforcement Learning Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
 
 
 ### Complex systems
