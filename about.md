@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a 3th year undergraduate student currently studying at Maastricht University in Psychology majoring in Neuroscience. Planning on graduating in the summer of 2019. I'm passionate about applying my knowledge of computer science and machine learning in neuroscience and advancing my knowledge of complex systems and chaos. Looking for a Master in Artificial Intelligence / System Biology afterwards. 
+I'm a first year graduate student studying at Radboud University doing a double degree in Artificial Intelligence and Cognitive Neuroscience focusing on cognitive and neural computations. I'm passionate about computational neuroscience, statistical control theory, reinforcement learning, dynamical systems and information theory.
 
 ‚I wanna believe as many true things and has few false things as possible.‘
 
