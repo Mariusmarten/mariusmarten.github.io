@@ -51,10 +51,9 @@ I'm a 3th year undergraduate student currently studying at Maastricht University
   - implemented in keras with tensorflow backend
 
 ### Research Interest
-  - computational neuroscience, systems biology
-  - cognitive science, consciousness, IIT
-  - network theory, graph analysis, complex systems, complexity
-  - modeling, machine learning, ANNs, computer vision
+  - Computational Neuroscience: Interplay between large populations of neurons and their ability to perform sophisticated computations
+  - Statistical Machine Learning:I’m interested in the foundations of machine learning and their current lack to sufficiently explain deep learning models. 
+  - Complex Systems: I’m interested in how large-scale complex phenomena emerge from distributed, simple and local computations. How these systems perform information storage, transfer and modifications and how micro & microstates interact. Further to understand the importance of emergent structure for computing and specially using Information theoretic measures to assess interactions appeals to me. 
   
 ### Programming / Frameworks
   - python
@@ -64,6 +63,7 @@ I'm a 3th year undergraduate student currently studying at Maastricht University
   - experienced in LaTeX/Overleaf
 
 ### Teaching
+  - TA for the course 'Brain' for AI students (2020)
 
 
 ### Contact me
