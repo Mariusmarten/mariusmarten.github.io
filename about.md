@@ -58,9 +58,9 @@ I'm a 3th year undergraduate student currently studying at Maastricht University
   
 ### Programming / Frameworks
   - python
-  - Keras/ Tensorflow
+  - keras/ tensorflow/ pytorch
   - basic HTML
-  - octave/mathlab
+  - octave/matlab
   - experienced in LaTeX/Overleaf
 
 ### Teaching
