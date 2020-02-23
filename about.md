@@ -65,7 +65,3 @@ My overall interest lies in different kinds of computations, across different sc
 
 ### Teaching
   - TA for the course 'Brain' for AI students (2020)
-
-
-### Contact me
-[m.kastingschafer@student.maastrichtuniversity.nl](mailto:m.kastingschafer@student.maastrichtuniversity.nl)
