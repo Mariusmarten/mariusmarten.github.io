@@ -18,6 +18,7 @@ A collection of resources for Machine Learning, Computational Neuroscience and C
 - Bishops [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) textbook
 - Murphy’s [Machine Learning: a Probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf) textbook
 - Kappen's [Advanced machine learning](http://www.snn.ru.nl/~bertk/machinelearning/adv_ml.html) course
+- Sutton and Barto’s [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/RLbook2018.pdf) textbook
 - Berkley's [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) course
 - Deepmind's [Introduction to reinforcement learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) lectures
 - Deepmind's [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) lectures
