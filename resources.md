@@ -29,6 +29,7 @@ A collection of resources for Machine Learning, Computational Neuroscience and C
 
 ### Complex systems
 - Strogatz [Nonlinear Dynamics and Chaos](http://www.hds.bme.hu/~fhegedus/Strogatz%20-%20Nonlinear%20Dynamics%20and%20Chaos.pdf) textbook and his [lectures](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
+- Thurner's [Introduction to the Theory of Complex Systems](https://www.amazon.de/Introduction-Theory-Complex-Systems-Thurner/dp/019882193X/ref=sr_1_1?__mk_de_DE=ÅMÅŽÕÑ&keywords=complex+systems&qid=1582538232&sr=8-1) textbook
 
 
 
