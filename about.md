@@ -21,7 +21,7 @@ I'm a first year graduate student studying at Radboud University doing a double 
 <img src="/assets/Maasi.png" width="150"> 
 
 * **Maastricht University - Maastricht, Netherlands** Bachelor of Science in Psychology (September 2016 - June 2019)
-  - average grade 7,95 (6-10)
+  - average grade 8,1 (6-10)
   - focusing on neurobiology and cognitive psychology
   - courses like: statisitcs, complex cognition, man and machine, neuroanatomy
   - part of the MaRBLe excellence programme
@@ -64,4 +64,4 @@ My overall interest lies in different kinds of computations, across different sc
   - experienced in LaTeX/Overleaf
 
 ### Teaching
-  - TA for the course 'Brain' for AI students (2020)
+  - teaching assistant for the course 'Brain' for A.I. students (2020)
