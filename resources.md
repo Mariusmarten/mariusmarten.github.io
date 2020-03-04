@@ -6,6 +6,8 @@ permalink: /resources/
 
 A collection of resources for Computational Neuroscience, Machine Learning and Complex Systems, I find useful or interesting.
 
+<img src="/assets/iconsmall.png" width="120"> 
+
 ### Computational Neuroscience and Neurophysics
 - Miller's [An Introductory Course in Computational Neuroscience](https://mitpress.mit.edu/books/introductory-course-computational-neuroscience) textbook
 - Izhikevich's [Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting](https://www.izhikevich.org/publications/dsn.pdf) textbook
