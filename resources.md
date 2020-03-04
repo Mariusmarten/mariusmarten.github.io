@@ -4,7 +4,7 @@ title: Resources | || || |||| |
 permalink: /resources/
 ---
 
-A collection of resources for Machine Learning, Computational Neuroscience and Complex Systems, I find useful or interesting.
+A collection of resources for Computational Neuroscience, Machine Learning and Complex Systems, I find useful or interesting.
 
 ### Computational Neuroscience and Neurophysics
 - Miller's [An Introductory Course in Computational Neuroscience](https://mitpress.mit.edu/books/introductory-course-computational-neuroscience) textbook
