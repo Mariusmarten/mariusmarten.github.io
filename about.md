@@ -18,7 +18,7 @@ I'm a first year graduate student studying at Radboud University doing a double 
 * **Donders Graduate School - Nijmegen, Netherlands** - Research Master in Cognitive Neuroscience (2019 - 2021) <img align="right" src="/assets/donders_logo.jpg" width="155">
   - specialisation in Neural Computation and Neurotechnology
   - courses like: adv. computational neuroscience, dynamics of complex systems, quantitative brain networks
-  - lab roation with Umut [Güçlü](https://www.ru.nl/english/people/guclu-u/)
+  - lab roation with Umut [Güçlü](https://www.ru.nl/english/people/guclu-u/) on asynchronous advantage actor-critic (A3C) algorithms
   - double degree with Artificial Intelligence
 <br/><br/>
 
