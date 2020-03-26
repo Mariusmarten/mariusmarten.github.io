@@ -7,7 +7,7 @@ permalink: /about/
 I'm a first year graduate student studying at Radboud University doing a double degree in Artificial Intelligence and Cognitive Neuroscience focusing on cognitive and neural computations. I'm passionate about computational neuroscience, statistical control theory, reinforcement learning, dynamical systems and information theory.
 
 ‚I wanna believe as many true things and has few false things as possible.‘
-<img src="/assets/radboud _logo.jpg" width="150"> 
+
 
 # Education
 
