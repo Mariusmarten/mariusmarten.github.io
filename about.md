@@ -44,18 +44,15 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - courses like: business cycle theory and policy, labor economics, finance and inequality
   - bachelor thesis based in empircal research about cooperation norms within an Public Good Game
 
-# Research Experience
+# Research Experience  
 
-<img src="/assets/EDLAB-logo-UM2.jpg" width="180">   
-
-* **Research at Maastricht University** (August 2018 - February 2019)
+* **Research at Maastricht University** (August 2018 - February 2019) <img align="right" src="/assets/EDLAB-logo-UM2.jpg" width="180"> 
   - working on convolutional neural networks optimized for multi-modal scene recognition
   - re-using a network pretrained on the places205 dataset (natural images) for clip art and sketches
   - implemented in keras with tensorflow backend
 
-<img src="/assets/JGU2.jpg" width="180">   
+* **Research at Mainz University** (June 2014 - August 2014) <img align="right" src="/assets/JGU2.jpg" width="180"> 
 
-* **Research at Mainz University** (June 2014 - August 2014)
   - project title 'the determinants of cooperation and behavior of children in public good games'
   - in cooperation with the Faculty of Business and Economics Management and Microeconomics at Goethe-University
   - planning, coordination, documentation and analysis of the results during quantiative experiment about cooperation
