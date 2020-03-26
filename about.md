@@ -17,6 +17,7 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - advanced programming courses in python and C++
   - double degree with Cognitive Neuroscience 
 <br>
+====================
 
 * **Donders Graduate School - Nijmegen, Netherlands** - Research Master in Cognitive Neuroscience (2019 - 2021) <img align="right" src="/assets/donders_logo.jpg" width="150">
   - specialisation in Neural Computation and Neurotechnology
