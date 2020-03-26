@@ -12,8 +12,8 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - specialisation in Cognitive Computing
   - courses like: statistical machine learning, neural information processing, adv. machine learning
   - advanced programming courses in python and C++
-  - double degree with Cognitive Neuroscience 
-<br>
+  - double degree with Cognitive Neuroscience
+<br/><br/>
 
 
 
