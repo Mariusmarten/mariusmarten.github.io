@@ -10,7 +10,7 @@ I'm a first year graduate student studying at Radboud University doing a double 
 
 # Education
 
-<img src="/assets/radboud_logo.jpg" width="150"> 
+<img src="/assets/radboud _logo.jpg" width="150"> 
 
 * **Radboud University - Nijmegen, Netherlands** Master in Artificial Intelligence (2019 - 2021)
   - specialisation in Cognitive Computing
