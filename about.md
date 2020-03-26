@@ -17,7 +17,7 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - courses like: statistical machine learning, neural information processing, adv. machine learning
   - advanced programming courses in python and C++
   - double degree with Cognitive Neuroscience
-
+---
 
 <img src="/assets/donders_logo.jpg" width="150"> 
 
@@ -26,7 +26,7 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - courses like: adv. computational neuroscience, dynamics of complex systems, quantitative brain networks
   - lab roation with Umut [Güçlü](https://www.ru.nl/english/people/guclu-u/)
   - double degree with Artificial Intelligence
-
+---
 
 <img src="/assets/ubaya.png" width="150"> 
   
@@ -34,7 +34,7 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - average grade A (A-D) 
   - strengthening intercultural competence
   - course on computer organization and architecture
-  
+---
   
 <img src="/assets/Maasi.png" width="145"> 
 
@@ -44,7 +44,7 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - courses like: statisitcs, complex cognition, man and machine, neuroanatomy
   - part of the MaRBLe excellence programme
   - bachelor thesis about artifical neural networks and scene recognition
-
+---
 
 <img src="/assets/Goethe.png" width="120"> 
 
