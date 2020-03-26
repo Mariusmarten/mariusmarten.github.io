@@ -10,6 +10,14 @@ I'm a first year graduate student studying at Radboud University doing a double 
 
 # Education
 
+<img src="/assets/donders_logo.jpg" width="150"> 
+
+* **Donders Graduate School - Nijmegen, Netherlands** Master of in Cognitive Neuroscience (Research)
+- specialisation in Neural Computation and Neurotechnology
+- courses like: adv. computational neuroscience, dynamics of complex systems, quantitative brain networks
+- lab roation with Umut [Güçlü](https://www.ru.nl/english/people/guclu-u/)
+
+
 <img src="/assets/ubaya.png" width="150"> 
   
 * **Ubaya University - Surabaya, Indonesia** Semester Abroad (August 2018 - January 2019)
@@ -17,14 +25,16 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - strengthening intercultural competence
   - course on computer organization and architecture
   
+  
 <img src="/assets/Maasi.png" width="150"> 
 
 * **Maastricht University - Maastricht, Netherlands** Bachelor of Science in Psychology (September 2016 - June 2019)
-  - average grade 8,1 (6-10)
+  - cum laude, average grade 8,1(6-10)
   - focusing on neurobiology and cognitive psychology
   - courses like: statisitcs, complex cognition, man and machine, neuroanatomy
   - part of the MaRBLe excellence programme
   - bachelor thesis about artifical neural networks and scene recognition
+
 
 <img src="/assets/Goethe.png" width="120"> 
 
