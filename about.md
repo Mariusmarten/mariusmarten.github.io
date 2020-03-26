@@ -10,12 +10,22 @@ I'm a first year graduate student studying at Radboud University doing a double 
 
 # Education
 
+<img src="/assets/radboud_logo.jpg" width="150"> 
+
+* **Radboud University - Nijmegen, Netherlands** Master in Artificial Intelligence (2019 - 2021)
+  - specialisation in Cognitive Computing
+  - courses like: statistical machine learning, neural information processing, adv. machine learning
+  - advanced programming courses in python and C++
+  - double degree with Cognitive Neuroscience
+
+
 <img src="/assets/donders_logo.jpg" width="150"> 
 
 * **Donders Graduate School - Nijmegen, Netherlands** Research Master in Cognitive Neuroscience (2019 - 2021)
-- specialisation in Neural Computation and Neurotechnology
-- courses like: adv. computational neuroscience, dynamics of complex systems, quantitative brain networks
-- lab roation with Umut [Güçlü](https://www.ru.nl/english/people/guclu-u/)
+  - specialisation in Neural Computation and Neurotechnology
+  - courses like: adv. computational neuroscience, dynamics of complex systems, quantitative brain networks
+  - lab roation with Umut [Güçlü](https://www.ru.nl/english/people/guclu-u/)
+  - double degree with Artificial Intelligence
 
 
 <img src="/assets/ubaya.png" width="150"> 
