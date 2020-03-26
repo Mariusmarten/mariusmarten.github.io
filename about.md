@@ -11,10 +11,6 @@ I'm a first year graduate student studying at Radboud University doing a double 
 
 # Education
 
-<img src="/assets/radboud _logo.jpg" width="150">
-
-
-
 * **Radboud University - Nijmegen, Netherlands** - Master in Artificial Intelligence (2019 - 2021) <img align="right" src="/assets/radboud _logo.jpg" width="150">
 
   - specialisation in Cognitive Computing \\
@@ -22,33 +18,25 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - advanced programming courses in python and C++
   - double degree with Cognitive Neuroscience
 
-<img src="/assets/donders_logo.jpg" width="150"> 
-
 * **Donders Graduate School - Nijmegen, Netherlands** - Research Master in Cognitive Neuroscience (2019 - 2021) <img align="right" src="/assets/donders_logo.jpg" width="150">
   - specialisation in Neural Computation and Neurotechnology
   - courses like: adv. computational neuroscience, dynamics of complex systems, quantitative brain networks
   - lab roation with Umut [Güçlü](https://www.ru.nl/english/people/guclu-u/)
   - double degree with Artificial Intelligence
 
-<img src="/assets/ubaya.png" width="150"> 
-
-* **Ubaya University - Surabaya, Indonesia** - Semester Abroad (August 2018 - January 2019)
+* **Ubaya University - Surabaya, Indonesia** - Semester Abroad (August 2018 - January 2019) <img align="right" src="/assets/ubaya.png" width="150"> 
   - average grade A (A-D) 
   - strengthening intercultural competence
   - course on computer organization and architecture
-  
-<img src="/assets/Maasi.png" width="145"> 
 
-* **Maastricht University - Maastricht, Netherlands** - Bachelor of Science in Psychology (2016 - 2019)
+* **Maastricht University - Maastricht, Netherlands** - Bachelor of Science in Psychology (2016 - 2019) <img align="right" src="/assets/Maasi.png" width="145"> 
   - cum laude, average grade 8,1(6-10)
   - focusing on neurobiology and cognitive psychology
   - courses like: statisitcs, complex cognition, man and machine, neuroanatomy
   - part of the MaRBLe excellence programme
   - bachelor thesis about artifical neural networks and scene recognition
 
-<img src="/assets/Goethe.png" width="120"> 
-
-* **Goethe University - Frankfurt, Germany** - Bachelor of Science in Economics (2013 - 2016)
+* **Goethe University - Frankfurt, Germany** - Bachelor of Science in Economics (2013 - 2016) <img align="right" src="/assets/Goethe.png" width="120">
   - average grade 1.9 (1.0-4.0)
   - focusing on micro- and macroeconomics (game theory, cooperation, agency theory)
   - courses like: business cycle theory and policy, labor economics, finance and inequality
