@@ -59,11 +59,7 @@ I'm a first year graduate student studying at Radboud University doing a double 
 # Research Interest
 My overall interest lies in different kinds of computations, across different scales and timeframes. Ranging from simple cellular automata over neural computations to dynamics governing human brain networks.
   - **Computational Neuroscience**: Interplay between large populations of neurons and their ability to perform sophisticated computations. Further I’m interested in predictive coding (the free-energy principle) and its implications for modelling neural circuits.
-<br/><br/>
-
   - **Statistical Machine Learning**: I’m interested in the foundations of machine learning and their current lack to sufficiently explain deep learning models. How to optimally implement causal interference using Bayesian methods. And further the recent developments in reinforcement learning and the use of Markov models to formalize problems caught my attention.
-<br/><br/>
-
   - **Complex Systems**: I’m interested in how large-scale complex phenomena emerge from distributed, simple and local computations. How these systems perform information storage, transfer and modifications and how micro & microstates interact. Further to understand the importance of emergent structure for computing and specially using Information theoretic measures to assess interactions appeals to me. 
   
 # Programming / Frameworks
