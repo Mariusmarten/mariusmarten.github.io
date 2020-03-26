@@ -12,7 +12,7 @@ I'm a first year graduate student studying at Radboud University doing a double 
 
 <img src="/assets/donders_logo.jpg" width="150"> 
 
-* **Donders Graduate School - Nijmegen, Netherlands** Master of in Cognitive Neuroscience (Research)
+* **Donders Graduate School - Nijmegen, Netherlands** Research Master in Cognitive Neuroscience (2019 - 2021)
 - specialisation in Neural Computation and Neurotechnology
 - courses like: adv. computational neuroscience, dynamics of complex systems, quantitative brain networks
 - lab roation with Umut [Güçlü](https://www.ru.nl/english/people/guclu-u/)
@@ -28,7 +28,7 @@ I'm a first year graduate student studying at Radboud University doing a double 
   
 <img src="/assets/Maasi.png" width="150"> 
 
-* **Maastricht University - Maastricht, Netherlands** Bachelor of Science in Psychology (September 2016 - June 2019)
+* **Maastricht University - Maastricht, Netherlands** Bachelor of Science in Psychology (2016 - 2019)
   - cum laude, average grade 8,1(6-10)
   - focusing on neurobiology and cognitive psychology
   - courses like: statisitcs, complex cognition, man and machine, neuroanatomy
@@ -38,7 +38,7 @@ I'm a first year graduate student studying at Radboud University doing a double 
 
 <img src="/assets/Goethe.png" width="120"> 
 
-* **Goethe University - Frankfurt, Germany** Bachelor of Science in Economics (June 2013 - September 2016)
+* **Goethe University - Frankfurt, Germany** Bachelor of Science in Economics (2013 - 2016)
   - average grade 1.9 (1.0-4.0)
   - focusing on micro- and macroeconomics (game theory, cooperation, agency theory)
   - courses like: business cycle theory and policy, labor economics, finance and inequality
