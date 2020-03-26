@@ -82,7 +82,7 @@ My overall interest lies in different kinds of computations, across different sc
   - keras/ tensorflow/ pytorch
   - basic HTML
   - octave/matlab
-  - experienced in LaTeX/Overleaf
+  - experienced in LaTeX/Beamer
 
 # Teaching
   - teaching assistant for the course 'Brain' for A.I. students (2020)
