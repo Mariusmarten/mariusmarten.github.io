@@ -14,21 +14,19 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - advanced programming courses in python and C++
   - double degree with Cognitive Neuroscience
 <br/><br/>
-&nbsp;
-
 
 * **Donders Graduate School - Nijmegen, Netherlands** - Research Master in Cognitive Neuroscience (2019 - 2021) <img align="right" src="/assets/donders_logo.jpg" width="155">
   - specialisation in Neural Computation and Neurotechnology
   - courses like: adv. computational neuroscience, dynamics of complex systems, quantitative brain networks
   - lab roation with Umut [Güçlü](https://www.ru.nl/english/people/guclu-u/)
   - double degree with Artificial Intelligence
-<br>
+<br/><br/>
 
 * **Ubaya University - Surabaya, Indonesia** - Semester Abroad (August 2018 - January 2019) <img align="right" src="/assets/ubaya.png" width="150"> 
   - average grade A (A-D) 
   - strengthening intercultural competence
   - course on computer organization and architecture
-<br>
+<br/><br/>
 
 * **Maastricht University - Maastricht, Netherlands** - Bachelor of Science in Psychology (2016 - 2019) <img align="right" src="/assets/Maasi.png" width="145"> 
   - cum laude, average grade 8,1(6-10)
@@ -36,7 +34,7 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - courses like: statisitcs, complex cognition, man and machine, neuroanatomy
   - part of the MaRBLe excellence programme
   - bachelor thesis about artifical neural networks and scene recognition
-<br>
+<br/><br/>
 
 * **Goethe University - Frankfurt, Germany** - Bachelor of Science in Economics (2013 - 2016) <img align="right" src="/assets/Goethe.png" width="120">
   - average grade 1.9 (1.0-4.0)
@@ -50,6 +48,7 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - working on convolutional neural networks optimized for multi-modal scene recognition
   - re-using a network pretrained on the places205 dataset (natural images) for clip art and sketches
   - implemented in keras with tensorflow backend
+<br/><br/>
 
 * **Research at Mainz University** (June 2014 - August 2014) <img align="right" src="/assets/JGU2.jpg" width="180"> 
 
@@ -57,11 +56,14 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - in cooperation with the Faculty of Business and Economics Management and Microeconomics at Goethe-University
   - planning, coordination, documentation and analysis of the results during quantiative experiment about cooperation
 
-
 # Research Interest
 My overall interest lies in different kinds of computations, across different scales and timeframes. Ranging from simple cellular automata over neural computations to dynamics governing human brain networks.
   - **Computational Neuroscience**: Interplay between large populations of neurons and their ability to perform sophisticated computations. Further I’m interested in predictive coding (the free-energy principle) and its implications for modelling neural circuits.
+<br/><br/>
+
   - **Statistical Machine Learning**: I’m interested in the foundations of machine learning and their current lack to sufficiently explain deep learning models. How to optimally implement causal interference using Bayesian methods. And further the recent developments in reinforcement learning and the use of Markov models to formalize problems caught my attention.
+<br/><br/>
+
   - **Complex Systems**: I’m interested in how large-scale complex phenomena emerge from distributed, simple and local computations. How these systems perform information storage, transfer and modifications and how micro & microstates interact. Further to understand the importance of emergent structure for computing and specially using Information theoretic measures to assess interactions appeals to me. 
   
 # Programming / Frameworks
