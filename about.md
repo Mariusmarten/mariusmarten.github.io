@@ -11,7 +11,6 @@ I'm a first year graduate student studying at Radboud University doing a double 
 # Education
 
 <img src="/assets/radboud _logo.jpg" width="150"> 
-
 * **Radboud University - Nijmegen, Netherlands** - Master in Artificial Intelligence (2019 - 2021)
   - specialisation in Cognitive Computing
   - courses like: statistical machine learning, neural information processing, adv. machine learning
@@ -19,7 +18,6 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - double degree with Cognitive Neuroscience
 
 <img src="/assets/donders_logo.jpg" width="150"> 
-
 * **Donders Graduate School - Nijmegen, Netherlands** - Research Master in Cognitive Neuroscience (2019 - 2021)
   - specialisation in Neural Computation and Neurotechnology
   - courses like: adv. computational neuroscience, dynamics of complex systems, quantitative brain networks
@@ -27,14 +25,12 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - double degree with Artificial Intelligence
 
 <img src="/assets/ubaya.png" width="150"> 
-  
 * **Ubaya University - Surabaya, Indonesia** - Semester Abroad (August 2018 - January 2019)
   - average grade A (A-D) 
   - strengthening intercultural competence
   - course on computer organization and architecture
   
 <img src="/assets/Maasi.png" width="145"> 
-
 * **Maastricht University - Maastricht, Netherlands** - Bachelor of Science in Psychology (2016 - 2019)
   - cum laude, average grade 8,1(6-10)
   - focusing on neurobiology and cognitive psychology
@@ -43,7 +39,6 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - bachelor thesis about artifical neural networks and scene recognition
 
 <img src="/assets/Goethe.png" width="120"> 
-
 * **Goethe University - Frankfurt, Germany** - Bachelor of Science in Economics (2013 - 2016)
   - average grade 1.9 (1.0-4.0)
   - focusing on micro- and macroeconomics (game theory, cooperation, agency theory)
