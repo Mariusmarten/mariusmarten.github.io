@@ -36,7 +36,7 @@ I'm a first year graduate student studying at Radboud University doing a double 
   - course on computer organization and architecture
   
   
-<img src="/assets/Maasi.png" width="150"> 
+<img src="/assets/Maasi.png" width="145"> 
 
 * **Maastricht University - Maastricht, Netherlands** Bachelor of Science in Psychology (2016 - 2019)
   - cum laude, average grade 8,1(6-10)
