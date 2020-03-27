@@ -37,3 +37,4 @@ A collection of resources for Computational Neuroscience, Machine Learning and C
 
 # What I read – Papers
 
+1. B. Olshausen and D. Field. “Emergence of Simple-Cell Receptive Field Properties by Learning a Sparse Code for Nat-ural Images”. In:Nature381 (1996), pp. 607–609.
