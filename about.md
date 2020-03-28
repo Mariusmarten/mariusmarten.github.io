@@ -8,7 +8,7 @@ I'm a first year graduate student studying at Radboud University doing a double 
 
 # Education
 
-* **Radboud University - Nijmegen, Netherlands** - Master in Artificial Intelligence (2019 - 2022) <img align="right" src="/assets/radboud _logo.jpg" width="165"> 
+* **Radboud University - Nijmegen, Netherlands** - Master in Artificial Intelligence (2019 - 2022) <img align="right" src="/assets/radboud _logo2.jpg" width="165"> 
   - specialisation in Cognitive Computing
   - courses like: statistical machine learning, neural information processing, adv. machine learning
   - advanced programming courses in python and C++
