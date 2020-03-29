@@ -22,9 +22,10 @@ A collection of resources for Computational Neuroscience, Machine Learning and C
 - Bishops [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) textbook and 
 [Implementions in Python](https://github.com/ctgk/PRML)
 - Murphy’s [Machine Learning: a Probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf) textbook
-- Kappen's [Advanced machine learning](http://www.snn.ru.nl/~bertk/machinelearning/adv_ml.html) course
+- Kappen's [Advanced machine learning](http://www.snn.ru.nl/~bertk/machinelearning/adv_ml.html) course (Radboud)
+- Buhmann's [Advanced machine learning](https://ml2.inf.ethz.ch/courses/aml/#questions) course (ETH)
 - Sutton and Barto’s [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/RLbook2018.pdf) textbook
-- Berkley's [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) course
+- Levines's [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) course (UC Berkeley)
 - Deepmind's [Introduction to reinforcement learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) lectures
 - Deepmind's [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) lectures
 
