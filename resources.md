@@ -17,7 +17,7 @@ A collection of resources for Computational Neuroscience, Machine Learning and C
 - Cover and Thomas [Elements of Information Theory](http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf) textbook
 - EPFL [Blue Brain's Massive Open Online](https://www.epfl.ch/research/domains/bluebrain/blue-brain/massive-open-online-courses/) courses
 
-### Machine Learning and Reinforcement Learning
+### Machine Learning
 - MacKays [Information Theory, Inference and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf) textbook and his [lectures](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
 - Mohris [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/) textbook and his [courses](https://cs.nyu.edu/~mohri/) 
 - Bishops [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) textbook and 
@@ -26,10 +26,13 @@ A collection of resources for Computational Neuroscience, Machine Learning and C
 - Shalev-Shwartz and Ben-David's [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) textbook and [lectures](https://www.youtube.com/watch?v=b5NlRg8SjZg&list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO&index=1)
 - Kappen's [Advanced machine learning](http://www.snn.ru.nl/~bertk/machinelearning/adv_ml.html) course (Radboud)
 - Buhmann's [Advanced machine learning](https://ml2.inf.ethz.ch/courses/aml/#questions) course (ETH)
+
+### Reinforcement Learning // Optimal Control
 - Sutton and Barto’s [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/RLbook2018.pdf) textbook
 - Levines's [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) course (UC Berkeley)
 - Deepmind's [Introduction to reinforcement learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) lectures
 - Deepmind's [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) lectures
+- Bertsekas [Reinforcement Learning and Optimal Control] textbook and his [lectures](https://web.mit.edu/dimitrib/www/RLbook.html)
 
 ### Complex systems 
 - Strogatz [Nonlinear Dynamics and Chaos](http://www.hds.bme.hu/~fhegedus/Strogatz%20-%20Nonlinear%20Dynamics%20and%20Chaos.pdf) textbook and his [lectures](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
