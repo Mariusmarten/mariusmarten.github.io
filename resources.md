@@ -42,10 +42,10 @@ A collection of resources for Computational Neuroscience, Machine Learning and C
 
 
 # What I read – Papers
-- Tycho Tax, Pedro Mediano, and Murray Shanahan. “The Partial Information Decomposition of Generative NeuralNetwork Models”. In:Entropy19 (Sept. 2017), p. 474. [25.04.2020]
+- Tycho Tax, Pedro Mediano, and Murray Shanahan. “The Partial Information Decomposition of Generative NeuralNetwork Models”. *Entropy* 19 (Sept. 2017), p. 474. [25.04.2020]
 - H. Yu et al. “The Coordinated Mapping of Visual Space and Response Features in Visual Cortex”. *Neuron* 47(2005), pp. 267–280. [09.04.2020]
 - T. Kohonen. “Self-organized formation of topologically correct feature maps”. *Biological Cybernetics* 43.1 (Jan.1982), pp. 59–69. [09.04.2020]
 - Yasaman Bahri et al. “Statistical Mechanics of Deep Learning”. *Annual Review of Condensed Matter Physics11* (Mar. 2020). [01.04.2020]
-- J. Kwisthout and I. van Rooij. “Predictive coding and the Bayesian brain: Intractability hurdles that are yet to be overcome”. In:Proceedings of the 35th Annual Meeting of the Cognitive Science Society, CogSci 2013, Berlin, Germany,July 31 - August 3, 2013. [01.04.2020]
+- J. Kwisthout and I. van Rooij. “Predictive coding and the Bayesian brain: Intractability hurdles that are yet to be overcome”. *Proceedings of the 35th Annual Meeting of the Cognitive Science Society*, CogSci 2013, Berlin, Germany,July 31 - August 3, 2013. [01.04.2020]
 - B. Olshausen and D. Field. “Emergence of Simple-Cell Receptive Field Properties by Learning a Sparse Code for Natural Images”. *Nature* 381 (1996), pp. 607–609. [20.03.2020]
 - Terence D. Sanger. “Optimal Unsupervised Learning in a Single-Layer Linear Feedforward Neural Network”. *Neural Networks* (1989), pp. 459–473. [20.03.2020] 
