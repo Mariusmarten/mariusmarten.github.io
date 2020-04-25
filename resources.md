@@ -32,7 +32,7 @@ A collection of resources for Computational Neuroscience, Machine Learning and C
 - Levines's [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) course (UC Berkeley)
 - Deepmind's [Introduction to reinforcement learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) lectures
 - Deepmind's [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) lectures
-- Bertsekas [Reinforcement Learning and Optimal Control] textbook and his [lectures](https://web.mit.edu/dimitrib/www/RLbook.html)
+- Bertsekas [Reinforcement Learning and Optimal Control](https://web.mit.edu/dimitrib/www/RLbook.html) textbook and his [lectures](https://web.mit.edu/dimitrib/www/RLbook.html)
 
 ### Complex systems 
 - Strogatz [Nonlinear Dynamics and Chaos](http://www.hds.bme.hu/~fhegedus/Strogatz%20-%20Nonlinear%20Dynamics%20and%20Chaos.pdf) textbook and his [lectures](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
