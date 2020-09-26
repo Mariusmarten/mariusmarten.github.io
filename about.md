@@ -70,4 +70,4 @@ My overall interest lies in different kinds of computations, across different sc
   - experienced in LaTeX/Beamer
 
 # Teaching
-  - teaching assistant for the course 'Brain' for A.I. students (2020)
+  - teaching assistant for the course ['Brain'](https://www.ru.nl/courseguides/socsci/courses-osiris/ai/sow-bki136-brain/) for A.I. students from [Tim Kietzman](https://www.timkietzmann.de) (2020)
