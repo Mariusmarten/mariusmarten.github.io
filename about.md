@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a first year graduate student studying at Radboud University doing a double degree in Artificial Intelligence and Cognitive Neuroscience focusing on cognitive and neural computations. I'm passionate about computational neuroscience, statistical control theory, reinforcement learning, dynamical systems and information theory.
+I'm a second year graduate student studying at Radboud University doing a double degree in Artificial Intelligence and Cognitive Neuroscience focusing on cognitive and neural computations. I'm passionate about bayesian neural networks, active inference, reinforcement learning and information theory
 
 # Education
 
