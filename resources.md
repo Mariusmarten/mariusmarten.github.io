@@ -27,7 +27,7 @@ A collection of resources for Computational Neuroscience, Machine Learning and C
 - Shalev-Shwartz and Ben-David's [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) textbook and [lectures](https://www.youtube.com/watch?v=b5NlRg8SjZg&list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO&index=1)
 - Kappen's [Advanced machine learning](http://www.snn.ru.nl/~bertk/machinelearning/adv_ml.html) course (Radboud)
 - Buhmann's [Advanced machine learning](https://ml2.inf.ethz.ch/courses/aml/#questions) course (ETH)
-- Hennig's [Probabilistic Machine Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/lehre/probabilistic-machine-learning/) course (ETH)
+- Hennig's [Probabilistic Machine Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/lehre/probabilistic-machine-learning/) course (Tübingen)
 
 ### Reinforcement Learning // Optimal Control
 - Sutton and Barto’s [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/RLbook2018.pdf) textbook
