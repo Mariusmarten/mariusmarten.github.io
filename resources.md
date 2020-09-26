@@ -23,7 +23,7 @@ A collection of resources for Computational Neuroscience, Machine Learning and C
 - Bishops [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) textbook and 
 [Implementations in Python](https://github.com/ctgk/PRML)
 - Murphy’s [Machine Learning: a Probabilistic Perspective](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20A%20Probabilistic%20Perspective%20%5BMurphy%202012-08-24%5D.pdf) textbook
-- Grünwalds [Minimum Description Length Principle](https://mitpress.mit.edu/books/minimum-description-length-principle)
+- Grünwalds [Minimum Description Length Principle](https://mitpress.mit.edu/books/minimum-description-length-principle) textbook
 - Shalev-Shwartz and Ben-David's [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) textbook and [lectures](https://www.youtube.com/watch?v=b5NlRg8SjZg&list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO&index=1)
 - Kappen's [Advanced machine learning](http://www.snn.ru.nl/~bertk/machinelearning/adv_ml.html) course (Radboud)
 - Buhmann's [Advanced machine learning](https://ml2.inf.ethz.ch/courses/aml/#questions) course (ETH)
