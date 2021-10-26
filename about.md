@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm a second year graduate student studying at Radboud University doing a double degree in Artificial Intelligence and Cognitive Neuroscience focusing on cognitive and neural computations. I'm passionate about bayesian neural networks, active inference, reinforcement learning and information theory
+I'm a second year graduate student studying at Radboud University doing a double degree in Artificial Intelligence and Cognitive Neuroscience focusing on cognitive and neural computations. I'm passionate about bayesian neural networks, active inference, reinforcement learning and information theory.
 
 # Education
 
-* **Radboud University - Nijmegen, Netherlands** - Master in Artificial Intelligence (2019 - 2022) <img align="right" src="/assets/logo-radboud2.jpg" width="150"> 
+* **Radboud University - Nijmegen, Netherlands** - Master in Artificial Intelligence (2019 - 2022) <img align="right" src="/assets/logo-radboud2.jpg" width="150">
   - specialisation in Cognitive Computing
   - courses like: statistical machine learning, neural information processing, adv. machine learning
   - advanced programming courses in python and C++
@@ -22,13 +22,13 @@ I'm a second year graduate student studying at Radboud University doing a double
   - double degree with Artificial Intelligence
 <br/><br/>
 
-* **Ubaya University - Surabaya, Indonesia** - Semester Abroad (August 2018 - January 2019) <img align="right" src="/assets/ubaya.png" width="150"> 
-  - average grade A (A-D) 
+* **Ubaya University - Surabaya, Indonesia** - Semester Abroad (August 2018 - January 2019) <img align="right" src="/assets/ubaya.png" width="150">
+  - average grade A (A-D)
   - strengthening intercultural competence
   - course on computer organization and architecture
 <br/><br/>
 
-* **Maastricht University - Maastricht, Netherlands** - Bachelor of Science in Psychology (2016 - 2019) <img align="right" src="/assets/Maasi.png" width="145"> 
+* **Maastricht University - Maastricht, Netherlands** - Bachelor of Science in Psychology (2016 - 2019) <img align="right" src="/assets/Maasi.png" width="145">
   - cum laude, average grade 8,1(6-10)
   - focusing on neurobiology and cognitive psychology
   - courses like: statisitcs, complex cognition, man and machine, neuroanatomy
@@ -44,13 +44,13 @@ I'm a second year graduate student studying at Radboud University doing a double
 
 # Research Experience  
 
-* **Research at Maastricht University** (August 2018 - February 2019) <img align="right" src="/assets/EDLAB-logo-UM2.jpg" width="180"> 
+* **Research at Maastricht University** (August 2018 - February 2019) <img align="right" src="/assets/EDLAB-logo-UM2.jpg" width="180">
   - working on convolutional neural networks optimized for multi-modal scene recognition
   - re-using a network pretrained on the places205 dataset (natural images) for clip art and sketches
   - implemented in keras with tensorflow backend
 <br/><br/>
 
-* **Research at Mainz University** (June 2014 - August 2014) <img align="right" src="/assets/JGU2.jpg" width="180"> 
+* **Research at Mainz University** (June 2014 - August 2014) <img align="right" src="/assets/JGU2.jpg" width="180">
 
   - project title 'the determinants of cooperation and behavior of children in public good games'
   - in cooperation with the Faculty of Business and Economics Management and Microeconomics at Goethe-University
@@ -60,8 +60,8 @@ I'm a second year graduate student studying at Radboud University doing a double
 My overall interest lies in different kinds of computations, across different scales and timeframes. Ranging from simple cellular automata over neural computations to dynamics governing human brain networks.
   - **Computational Neuroscience**: Interplay between large populations of neurons and their ability to perform sophisticated computations. Further I’m interested in predictive coding (the free-energy principle) and its implications for modelling neural circuits.
   - **Statistical Machine Learning**: I’m interested in the foundations of machine learning and their current lack to sufficiently explain deep learning models. How to optimally implement causal interference using Bayesian methods. And further the recent developments in reinforcement learning and the use of Markov models to formalize problems caught my attention.
-  - **Complex Systems**: I’m interested in how large-scale complex phenomena emerge from distributed, simple and local computations. How these systems perform information storage, transfer and modifications and how micro & microstates interact. Further to understand the importance of emergent structure for computing and specially using Information theoretic measures to assess interactions appeals to me. 
-  
+  - **Complex Systems**: I’m interested in how large-scale complex phenomena emerge from distributed, simple and local computations. How these systems perform information storage, transfer and modifications and how micro & microstates interact. Further to understand the importance of emergent structure for computing and specially using Information theoretic measures to assess interactions appeals to me.
+
 # Programming / Frameworks
   - python
   - keras/ tensorflow/ pytorch
