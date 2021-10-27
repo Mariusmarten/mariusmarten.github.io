@@ -3,16 +3,18 @@ layout: page
 permalink: /research/
 ---
 Projects done from 2015 onwards.
- 
+
 Neuroscience - Maastricht, 2019: Cross-Modal CNNs
 ====================
 Project about reusing pretrained convolutional neural networks to apply them on modalities they have not been trained on. The project is to solve an scene recongition task across domains namely natural images, clip art and drawings. Additionaly the paper describes biological motivation for computer vision in general and convolutional neural networks especially.
 - [Paper: Multi-Source Domain Adaptation]({{mariusmarten.github.io}}/projects/BT_TransferLearning_CN.pdf)
 - [Poster: MaRBLe poster session]({{mariusmarten.github.io}}/projects/2019_Poster_MaRBLe.pdf)
 
+
+<!---
 Neuroscience - Maastricht, 2018: Flow & Memory
 ====================
-Investiagting the possible relationship between 'being in the flow' and memory recosolidation. The positive psychology concept flow is defined as the rewarding experience of being fully immersed in a task. Using an modified Orientation Discrimination Task (ODT) to induce flow. It was hypothesized (1) that flow and heart rate variability (HRV) are negatively associated and (2) that flow and memory recognition rates in the modified ODT are positively associated. 
+Investiagting the possible relationship between 'being in the flow' and memory recosolidation. The positive psychology concept flow is defined as the rewarding experience of being fully immersed in a task. Using an modified Orientation Discrimination Task (ODT) to induce flow. It was hypothesized (1) that flow and heart rate variability (HRV) are negatively associated and (2) that flow and memory recognition rates in the modified ODT are positively associated.
 - [Paper: Flow and Memory]({{mariusmarten.github.io}}/projects/2018_Being_in_the_Flow.pdf)
 
 Neuroscience - Maastricht, 2018: Machine Consciousness
@@ -27,16 +29,10 @@ Assessing determinants of cooperation and behavior of during a public good game 
 
 Economics - Frankfurt, 2015: Finance and Inequality
 ====================
-Quantiative analysis of how finance affects distribution and equality of opportunity. 
+Quantiative analysis of how finance affects distribution and equality of opportunity.
 - [Paper: Finance and Inequlity]({{mariusmarten.github.io}}/.pdf)
 
 Kaggle Competitions
 ====================
 no results yet.
-
-
-
-
-
-
- 
+-->

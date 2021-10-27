@@ -67,6 +67,14 @@ My overall interest lies in unsupervised representation learning and its link to
   - in cooperation with the Faculty of Business and Economics Management and Microeconomics at Goethe-University
   - planning, coordination, documentation and analysis of the results during quantiative experiment about cooperation
 
+# Projects
+
+
+* **Multi-Source Domain Adaptation**
+- [Paper: Multi-Source Domain Adaptation]({{mariusmarten.github.io}}/projects/BT_TransferLearning_CN.pdf)
+- [Poster: MaRBLe poster session]({{mariusmarten.github.io}}/projects/2019_Poster_MaRBLe.pdf)
+
+
 # Teaching Experience
   - teaching assistant for the course ['Brain'](https://www.ru.nl/courseguides/socsci/courses-osiris/ai/sow-bki136-brain/) for A.I. students from [Tim Kietzman](https://www.timkietzmann.de) (2020)
   - teaching assistant for the course ['Brain'](https://www.ru.nl/courseguides/socsci/courses-osiris/ai/sow-bki136-brain/) for A.I. students from [Tim Kietzman](https://www.timkietzmann.de) (2021)
