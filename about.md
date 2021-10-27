@@ -4,13 +4,16 @@ title: About
 permalink: /about/
 ---
 
-I'm a second year graduate student studying at Radboud University doing a double degree in Artificial Intelligence and Cognitive Neuroscience focusing on cognitive and neural computations. I'm passionate about bayesian neural networks, active inference, reinforcement learning and information theory.
+I'm a graduate research intern at the Donders Centre for Cognition. I also working at the Data Science Department at Radboud University. I'm enrolled in a double degree in Artificial Intelligence and Cognitive Neuroscience focusing on machine learning and reinforcement learning. I'm passionate about world model learning, probabilistic deep learning, information theory and neural compression.
 
 # Research Interest
-My overall interest lies in different kinds of computations, across different scales and timeframes. Ranging from simple cellular automata over neural computations to dynamics governing human brain networks.
-  - **Computational Neuroscience**: Interplay between large populations of neurons and their ability to perform sophisticated computations. Further I’m interested in predictive coding (the free-energy principle) and its implications for modelling neural circuits.
-  - **Statistical Machine Learning**: I’m interested in the foundations of machine learning and their current lack to sufficiently explain deep learning models. How to optimally implement causal interference using Bayesian methods. And further the recent developments in reinforcement learning and the use of Markov models to formalize problems caught my attention.
-  - **Complex Systems**: I’m interested in how large-scale complex phenomena emerge from distributed, simple and local computations. How these systems perform information storage, transfer and modifications and how micro & microstates interact. Further to understand the importance of emergent structure for computing and specially using Information theoretic measures to assess interactions appeals to me.
+My overall interest lies in unsupervised representation learning and their link to intelligent machines.
+
+- **Model-based Reinforcement Learning**: Intrinsically, curiosity driven agents that build a world model within a complex environment fascinate me. Especially agent goal functions that either make use of active inference or information theoretic approaches. I'm particularly intrigued by the problem of long horizon planning that is bottlenecked by the quality of the environment compression.
+
+- **Neural compression**: The compression of spatio-temporal dynamics using neural networks for me is one of the most fascinating problems. I would does like to work on the improvement of dynamic variational autoencoders or other deep generative video models. Other possible avenues include the use of attentional mechanisms to enable more and more general model building algorithms (see Perceiver from Deepmind for example). Such models have in my opinion great potential within model-based RL but also in terms of reducing world wide internet traffic.
+
+- **Probabilistic Deep Learning**: This topic in my opinion underwrites many of the recent advancements in artificial intelligence and is thus worth to be investigated. I'm especially interested in enabling Bayesian inference on large datasets using variational methods.
 
 # Education
 
