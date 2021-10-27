@@ -65,7 +65,7 @@ My overall interest lies in different kinds of computations, across different sc
 # Teaching Experience
   - teaching assistant for the course ['Brain'](https://www.ru.nl/courseguides/socsci/courses-osiris/ai/sow-bki136-brain/) for A.I. students from [Tim Kietzman](https://www.timkietzmann.de) (2020)
   - teaching assistant for the course ['Brain'](https://www.ru.nl/courseguides/socsci/courses-osiris/ai/sow-bki136-brain/) for A.I. students from [Tim Kietzman](https://www.timkietzmann.de) (2021)
-  - teaching assistant for the course ['Cognitive Computational Neuroscience'](https://www.ru.nl/courseguides/socsci/courses-osiris/ai/sow-bki255-cognitive-computational-neuroscience/) for A.I. students from [Tim Kietzman](https://www.timkietzmann.de) and [Ruben van Bergen](https://www.rubenvanbergen.com) (2021)
+  - teaching assistant for the course ['Cognitive Computational Neuroscience'](https://www.ru.nl/courseguides/socsci/courses-osiris/ai/sow-bki255-cognitive-computational-neuroscience/) from [Tim](https://www.timkietzmann.de) and [Ruben](https://www.rubenvanbergen.com) (2021)
   - teaching assistant for the course ['Calculus'](https://www.ru.nl/courseguides/socsci/courses-osiris/ai/sow-bki104-calculus/) for A.I. students from [Luca Ambrogioni](https://scholar.google.nl/citations?user=J9IABpQAAAAJ&hl=en) (2021)
 
 
