@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Resources | || || |||| |
+title: Resources
 permalink: /resources/
 ---
 
 A collection of resources for Computational Neuroscience, Machine Learning and Complex Systems, I find useful or interesting.
-
-<img src="/assets/iconsmall.png" width="120">
 
 ### Machine Learning
 - MacKays [Information Theory, Inference and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf) textbook and his [lectures](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
@@ -20,7 +18,7 @@ A collection of resources for Computational Neuroscience, Machine Learning and C
 - Buhmann's [Advanced machine learning](https://ml2.inf.ethz.ch/courses/aml/#questions) course (ETH)
 - Hennig's [Probabilistic Machine Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/lehre/probabilistic-machine-learning/) course (Tübingen)
 
-### Reinforcement Learning // Optimal Control
+### Reinforcement Learning and Control
 - Sutton and Barto’s [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/RLbook2018.pdf) textbook
 - Levines's [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) course (UC Berkeley)
 - Deepmind's [Introduction to reinforcement learning](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) lectures
