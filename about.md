@@ -75,7 +75,7 @@ My overall interest lies in unsupervised representation learning and its link to
 
 
 # Skills
-  - Programming: Python (numpy, seaborn, scikit, etc.), R, Matlab, HTML. Basics in Julia and C++
+  - Programming: Python (numpy, seaborn, scikit, jupyter, etc.), R, Matlab, HTML. Basics in Julia and C++
   - Deep learning frameworks: Tensorflow, Pytorch and Keras
-  - Experience with AWS, Deepnote and Google Cloug Platform
+  - Experience with AWS, Deepnote, Google Colab and Google Cloud Platform
   - Experienced in using Git, LaTeX and Linux
