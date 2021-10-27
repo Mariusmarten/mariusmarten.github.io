@@ -69,10 +69,13 @@ My overall interest lies in unsupervised representation learning and its link to
 
 # Projects
 
-
-* **Multi-Source Domain Adaptation**
-- [Paper: Multi-Source Domain Adaptation]({{mariusmarten.github.io}}/projects/BT_TransferLearning_CN.pdf)
-- [Poster: MaRBLe poster session]({{mariusmarten.github.io}}/projects/2019_Poster_MaRBLe.pdf)
+* **Master Thesis**  (Donders Institut and Radboud University)
+* **AutoMATE**  (Data Science Department Radboud University)
+* **World Model Agents** (Radboud University, Neural Information Processing course)
+* **Active Inference Notebook** [GitHub](https://github.com/pl-robotdecision/tutorials-active-inference/blob/main/exercises/1_FEP_TheSensingWheel_Perception_exercise.ipynb)
+* **Neuromorphic Active Inference Agents** (Radboud University, Neural Information Processing course)
+* **A3C Agents** (Radboud University Neural Information Processing course)
+* **Multi-Source Domain Adaptation** (Maastricht University, Bachelor thesis) [[Paper]({{mariusmarten.github.io}}/projects/BT_TransferLearning_CN.pdf) / [Poster]({{mariusmarten.github.io}}/projects/2019_Poster_MaRBLe.pdf)]
 
 
 # Teaching Experience
