@@ -6,6 +6,12 @@ permalink: /about/
 
 I'm a second year graduate student studying at Radboud University doing a double degree in Artificial Intelligence and Cognitive Neuroscience focusing on cognitive and neural computations. I'm passionate about bayesian neural networks, active inference, reinforcement learning and information theory.
 
+# Research Interest
+My overall interest lies in different kinds of computations, across different scales and timeframes. Ranging from simple cellular automata over neural computations to dynamics governing human brain networks.
+  - **Computational Neuroscience**: Interplay between large populations of neurons and their ability to perform sophisticated computations. Further I’m interested in predictive coding (the free-energy principle) and its implications for modelling neural circuits.
+  - **Statistical Machine Learning**: I’m interested in the foundations of machine learning and their current lack to sufficiently explain deep learning models. How to optimally implement causal interference using Bayesian methods. And further the recent developments in reinforcement learning and the use of Markov models to formalize problems caught my attention.
+  - **Complex Systems**: I’m interested in how large-scale complex phenomena emerge from distributed, simple and local computations. How these systems perform information storage, transfer and modifications and how micro & microstates interact. Further to understand the importance of emergent structure for computing and specially using Information theoretic measures to assess interactions appeals to me.
+
 # Education
 
 * **Radboud University - Nijmegen, Netherlands** - Master in Artificial Intelligence (2019 - 2022) <img align="right" src="/assets/logo-radboud2.jpg" width="150">
@@ -56,11 +62,12 @@ I'm a second year graduate student studying at Radboud University doing a double
   - in cooperation with the Faculty of Business and Economics Management and Microeconomics at Goethe-University
   - planning, coordination, documentation and analysis of the results during quantiative experiment about cooperation
 
-# Research Interest
-My overall interest lies in different kinds of computations, across different scales and timeframes. Ranging from simple cellular automata over neural computations to dynamics governing human brain networks.
-  - **Computational Neuroscience**: Interplay between large populations of neurons and their ability to perform sophisticated computations. Further I’m interested in predictive coding (the free-energy principle) and its implications for modelling neural circuits.
-  - **Statistical Machine Learning**: I’m interested in the foundations of machine learning and their current lack to sufficiently explain deep learning models. How to optimally implement causal interference using Bayesian methods. And further the recent developments in reinforcement learning and the use of Markov models to formalize problems caught my attention.
-  - **Complex Systems**: I’m interested in how large-scale complex phenomena emerge from distributed, simple and local computations. How these systems perform information storage, transfer and modifications and how micro & microstates interact. Further to understand the importance of emergent structure for computing and specially using Information theoretic measures to assess interactions appeals to me.
+# Teaching Experience
+  - teaching assistant for the course ['Brain'](https://www.ru.nl/courseguides/socsci/courses-osiris/ai/sow-bki136-brain/) for A.I. students from [Tim Kietzman](https://www.timkietzmann.de) (2020)
+  - teaching assistant for the course ['Brain'](https://www.ru.nl/courseguides/socsci/courses-osiris/ai/sow-bki136-brain/) for A.I. students from [Tim Kietzman](https://www.timkietzmann.de) (2021)
+  - teaching assistant for the course ['Cognitive Computational Neuroscience'](https://www.ru.nl/courseguides/socsci/courses-osiris/ai/sow-bki255-cognitive-computational-neuroscience/) for A.I. students from [Tim Kietzman](https://www.timkietzmann.de) and [Ruben van Bergen](https://www.rubenvanbergen.com) (2021)
+  - teaching assistant for the course ['Calculus'](https://www.ru.nl/courseguides/socsci/courses-osiris/ai/sow-bki104-calculus/) for A.I. students from [Luca Ambrogioni](https://scholar.google.nl/citations?user=J9IABpQAAAAJ&hl=en) (2021)
+
 
 # Programming / Frameworks
   - python
@@ -68,6 +75,3 @@ My overall interest lies in different kinds of computations, across different sc
   - basic HTML
   - octave/matlab
   - experienced in LaTeX/Beamer
-
-# Teaching
-  - teaching assistant for the course ['Brain'](https://www.ru.nl/courseguides/socsci/courses-osiris/ai/sow-bki136-brain/) for A.I. students from [Tim Kietzman](https://www.timkietzmann.de) (2020)
