@@ -16,7 +16,6 @@ My overall interest lies in unsupervised representation learning and its link to
 - **Probabilistic Deep Learning**: This topic in my opinion underwrites many of the recent advancements in artificial intelligence and is thus worth to be investigated. I'm especially interested in enabling Bayesian inference on large datasets using variational methods.
 
 # Education
-
 * **Radboud University - Nijmegen, Netherlands** - Master in Artificial Intelligence (2019 - 2022) <img align="right" src="/assets/logo-radboud2.jpg" width="150">
   - [Link to the programm](https://www.ru.nl/courseguides/socsci/master/artificial-intelligence/)
   - specialisation in Cognitive Computing
@@ -58,8 +57,8 @@ My overall interest lies in unsupervised representation learning and its link to
   - courses like: business cycle theory and policy, labor economics, finance and inequality
   - bachelor thesis based in empircal research about cooperation norms within an Public Good Game
 
-# Research Experience  
 
+# Research Experience  
 * **Graduate Research Intern at the Donders Institue for Brain, Cognition and Behaviour** (2021 - Present) <img align="right" src="/assets/donders_logo.jpg" width="155">
     - working on model-based reinforcement learning with a special, improving agent internal goal functions to facilitate long horizon planning
     - with [Marcel van Gerven](https://www.ru.nl/personen/gerven-m-van/) and [Danijar Hafner](https://danijar.com)
@@ -88,12 +87,13 @@ My overall interest lies in unsupervised representation learning and its link to
   - in cooperation with the Faculty of Business and Economics Management and Microeconomics at Goethe-University
   - planning, coordination, documentation and analysis of the results
 
+
 # Projects
 * **Master Thesis (ongoing)** (Donders Institut and Radboud University)
-* **AutoMATE**  (Data Science Department, Radboud University)
-* **World Model Agents** (Radboud University, Natural Computing)
+* **AutoMATE (ongoing)**  (Data Science Department, Radboud University)
+* **World Model Agents** (Radboud University, Natural Computing course)
 * **Active Inference Notebook** (Radboud University, Lab rotation) [[GitHub](https://github.com/pl-robotdecision/tutorials-active-inference/blob/main/exercises/1_FEP_TheSensingWheel_Perception_exercise.ipynb)]
-* **Neuromorphic Active Inference Agents** (Radboud University, Neuromorphic Computing)
+* **Neuromorphic Active Inference Agents** (Radboud University, Neuromorphic Computing course)
 * **A3C Agents** (Radboud University, Neural Information Processing course and Lab rotation)
 * **Multi-Source Domain Adaptation** (Maastricht University, Bachelor thesis) [[Paper]({{mariusmarten.github.io}}/projects/BT_TransferLearning_CN.pdf) / [Poster]({{mariusmarten.github.io}}/projects/2019_Poster_MaRBLe.pdf)]
 
