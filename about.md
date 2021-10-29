@@ -65,7 +65,7 @@ My overall interest lies in unsupervised representation learning and its link to
   <br/><br/>
 
 * **Student Assistant at the Data Science Department of Radboud University** (2021 - Present) <img align="right" src="/assets/logo-radboud2.jpg" width="150">
-    - working on procedural assignment generation and improving integration Nbgrader (autograding) software
+    - working on AutoMATE project, a framework designed for procedural assignment generation with seamless autograding integration
     - working with [Ioan Gabriel Bucur](https://www.cs.ru.nl/~gbucur/)
     - focusing on the courses statistical machine learning and data mining
   <br/><br/>
@@ -94,8 +94,8 @@ My overall interest lies in unsupervised representation learning and its link to
 * **World Model Agents** (Radboud University, Natural Computing course)
 * **Active Inference Notebook** (Radboud University, Lab rotation) [[GitHub](https://github.com/pl-robotdecision/tutorials-active-inference/blob/main/exercises/1_FEP_TheSensingWheel_Perception_exercise.ipynb)]
 * **Neuromorphic Active Inference Agents** (Radboud University, Neuromorphic Computing course)
-* **A3C Agents** (Radboud University, Neural Information Processing course and Lab rotation)
-* **Multi-Source Domain Adaptation** (Maastricht University, Bachelor thesis) [[Paper]({{mariusmarten.github.io}}/projects/BT_TransferLearning_CN.pdf) / [Poster]({{mariusmarten.github.io}}/projects/2019_Poster_MaRBLe.pdf)]
+* **A3C Agents** (Radboud University, Neural Information Processing course and Lab rotation) [Blog](https://mariusmarten.github.io/Multi-Source%20Domain%20Adaptation%20-%20MaRBLe%20Research%202018/19)
+* **Multi-Source Domain Adaptation** (Maastricht University, Bachelor thesis) [[Paper]({{mariusmarten.github.io}}/projects/BT_TransferLearning_CN.pdf) / [Poster]({{mariusmarten.github.io}}/projects/2019_Poster_MaRBLe.pdf) / [Blog](https://mariusmarten.github.io/Multi-Source%20Domain%20Adaptation%20-%20MaRBLe%20Research%202018/19)]
 
 
 # Teaching Experience
