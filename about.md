@@ -20,17 +20,23 @@ My overall interest lies in unsupervised representation learning and its link to
 * **Radboud University - Nijmegen, Netherlands** - Master in Artificial Intelligence (2019 - 2022) <img align="right" src="/assets/logo-radboud2.jpg" width="150">
   - [Link to the programm](https://www.ru.nl/courseguides/socsci/master/artificial-intelligence/)
   - specialisation in Cognitive Computing
-  - courses like: statistical machine learning, neural information processing, adv. machine learning
-  - advanced programming courses in python and C++
+  - courses like: statistical machine learning, neural information processing and probabilistic deep learning
+  - advanced programming courses in Python, Matlab and C++
+  - thesis on model-based reinforcement learning with [Marcel van Gerven](https://www.ru.nl/personen/gerven-m-van/) and [Danijar Hafner](https://danijar.com)
   - double degree with Cognitive Neuroscience
 <br/><br/>
 
 * **Donders Graduate School - Nijmegen, Netherlands** - Research Master in Cognitive Neuroscience (2019 - 2022) <img align="right" src="/assets/donders_logo.jpg" width="155">
   - [Link to the programm](https://www.ru.nl/opleidingen/master/cognitive-neuroscience-research/curriculum-and-courses/natural-computing-and-neurotechnology/)
   - specialisation in Neural Computation and Neurotechnology
-  - courses like: adv. computational neuroscience, dynamics of complex systems, quantitative brain networks
-  - lab roation with Umut [Güçlü](https://www.ru.nl/english/people/guclu-u/) on asynchronous advantage actor-critic (A3C) algorithms
+  - courses like: adv. computational neuroscience, reinforcement learning and deep learning
+  - large portion of courses from the [neurophysics master](https://www.ru.nl/english/education/masters/neurophysics/curriculum-and-courses/)
   - double degree with Artificial Intelligence
+<br/><br/>
+
+* **Leiden University - Leiden, Netherlands** - Guest Student (2020 - 2021) <img align="right" src="/assets/leiden-logo.png" width="150">
+  - course on Reinforcement Learning (grade 9)
+  - working on MCTS methods and Dreamer
 <br/><br/>
 
 * **Ubaya University - Surabaya, Indonesia** - Semester Abroad (August 2018 - January 2019) <img align="right" src="/assets/ubaya.png" width="150">
@@ -40,11 +46,12 @@ My overall interest lies in unsupervised representation learning and its link to
 <br/><br/>
 
 * **Maastricht University - Maastricht, Netherlands** - Bachelor of Science in Psychology (2016 - 2019) <img align="right" src="/assets/Maasi.png" width="145">
-  - cum laude, average grade 8,1(6-10)
-  - focusing on neurobiology and cognitive psychology
-  - courses like: statisitcs, complex cognition, man and machine, neuroanatomy
+  - cum laude, average grade 8.1(6-10)
+  - focusing on motor control and deep learning
   - part of the MaRBLe excellence programme
-  - bachelor thesis about artifical neural networks and scene recognition
+  - bachelor thesis
+
+  about artifical neural networks and scene recognition
 <br/><br/>
 
 * **Goethe University - Frankfurt, Germany** - Bachelor of Science in Economics (2013 - 2016) <img align="right" src="/assets/Goethe.png" width="120">
@@ -54,6 +61,8 @@ My overall interest lies in unsupervised representation learning and its link to
   - bachelor thesis based in empircal research about cooperation norms within an Public Good Game
 
 # Research Experience  
+
+  - lab roation with Umut [Güçlü](https://www.ru.nl/english/people/guclu-u/) on asynchronous advantage actor-critic (A3C) algorithms
 
 * **Research at Maastricht University** (August 2018 - February 2019) <img align="right" src="/assets/EDLAB-logo-UM2.jpg" width="180">
   - working on convolutional neural networks optimized for multi-modal scene recognition
