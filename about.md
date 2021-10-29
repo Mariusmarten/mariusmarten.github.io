@@ -65,18 +65,19 @@ My overall interest lies in unsupervised representation learning and its link to
     - with [Marcel van Gerven](https://www.ru.nl/personen/gerven-m-van/) and [Danijar Hafner](https://danijar.com)
   <br/><br/>
 
-* **Student Assistant at the Data Science Department of Radboud University** (2021 - Present) <img align="right" src="/assets/logo-radboud2.jpg" width="150"
-      - working on procedural assignment generation and improving integration Nbgrader (autograding) software
-      - working with [Ioan Gabriel Bucur](https://www.cs.ru.nl/~gbucur/)
-      - focusing on the courses statistical machine learning and data mining
-    <br/><br/>
+* **Student Assistant at the Data Science Department of Radboud University** (2021 - Present) <img align="right" src="/assets/logo-radboud2.jpg" width="150">
+    - working on procedural assignment generation and improving integration Nbgrader (autograding) software
+    - working with [Ioan Gabriel Bucur](https://www.cs.ru.nl/~gbucur/)
+    - focusing on the courses statistical machine learning and data mining
+  <br/><br/>
 
-* **Lab roation at the Donders Institue for Brain, Cognition and Behaviour** (2018 - 2019) <img align="right" src="donders_logo.jpg" width="155">
+* **Lab roation at the Donders Institue for Brain, Cognition and Behaviour** (2018 - 2019) <img align="right" src="/assets/donders_logo.jpg" width="155">
     - working with [Umut Güçlü](https://www.ru.nl/english/people/guclu-u/) on asynchronous advantage actor-critic (A3C) algorithms
     - working with [Pablo Lanillos](https://www.ru.nl/english/people/lanillos-p/) on Active Inference
   <br/><br/>
 
 * **Bachelor thesis research at Maastricht University** (2018 - 2019) <img align="right" src="/assets/EDLAB-logo-UM2.jpg" width="180">
+  - part of the research based excellence program partially organized by EDLAB
   - working on convolutional neural networks optimized for multi-modal scene recognition
   - re-using a network pretrained on the places205 dataset (natural images) for clip art and sketches
   - implemented using Tensorflow
