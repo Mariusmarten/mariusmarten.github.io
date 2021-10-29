@@ -60,7 +60,7 @@ My overall interest lies in unsupervised representation learning and its link to
 
 # Research Experience  
 
-<img align="center" src="/assets/donder-experience.png" width="240">
+<img align="center" src="/assets/donders-experience.png" width="240">
 
   - lab roation with Umut [Güçlü](https://www.ru.nl/english/people/guclu-u/) on asynchronous advantage actor-critic (A3C) algorithms
 
