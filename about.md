@@ -39,7 +39,7 @@ My overall interest lies in unsupervised representation learning and its link to
   - working on MCTS methods and Dreamer
 <br/><br/>
 
-* **Ubaya University - Surabaya, Indonesia** - Semester Abroad (August 2018 - January 2019) <img align="right" src="/assets/ubaya.png" width="150">
+* **Ubaya University - Surabaya, Indonesia** - Semester Abroad (2018 - 2019) <img align="right" src="/assets/ubaya.png" width="150">
   - average grade A (A-D)
   - strengthening intercultural competence
   - course on computer organization and architecture
@@ -49,9 +49,7 @@ My overall interest lies in unsupervised representation learning and its link to
   - cum laude, average grade 8.1(6-10)
   - focusing on motor control and deep learning
   - part of the MaRBLe excellence programme
-  - bachelor thesis
-
-  about artifical neural networks and scene recognition
+  - bachelor thesis on Multi-Source Domain Adaptation
 <br/><br/>
 
 * **Goethe University - Frankfurt, Germany** - Bachelor of Science in Economics (2013 - 2016) <img align="right" src="/assets/Goethe.png" width="120">
@@ -62,15 +60,17 @@ My overall interest lies in unsupervised representation learning and its link to
 
 # Research Experience  
 
+<img align="center" src="/assets/donder-experience.png" width="240">
+
   - lab roation with Umut [Güçlü](https://www.ru.nl/english/people/guclu-u/) on asynchronous advantage actor-critic (A3C) algorithms
 
-* **Research at Maastricht University** (August 2018 - February 2019) <img align="right" src="/assets/EDLAB-logo-UM2.jpg" width="180">
+* **Research at Maastricht University** (2018 - 2019) <img align="right" src="/assets/EDLAB-logo-UM2.jpg" width="180">
   - working on convolutional neural networks optimized for multi-modal scene recognition
   - re-using a network pretrained on the places205 dataset (natural images) for clip art and sketches
   - implemented using Tensorflow
 <br/><br/>
 
-* **Research at Mainz University** (June 2014 - August 2014) <img align="right" src="/assets/JGU2.jpg" width="180">
+* **Research at Mainz University** (2014) <img align="right" src="/assets/JGU2.jpg" width="180">
 
   - project title 'the determinants of cooperation and behavior of children in public good games'
   - in cooperation with the Faculty of Business and Economics Management and Microeconomics at Goethe-University
