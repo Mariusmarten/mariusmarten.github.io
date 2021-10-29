@@ -60,24 +60,34 @@ My overall interest lies in unsupervised representation learning and its link to
 
 # Research Experience  
 
-<img align="center" src="/assets/donders-experience.png" width="240">
+* **Graduate Research Intern at the Donders Institue for Brain, Cognition and Behaviour** (2021 - Present) <img align="right" src="/assets/donders_logo.jpg" width="155">
+    - working on model-based reinforcement learning with a special, improving agent internal goal functions to facilitate long horizon planning
+    - with [Marcel van Gerven](https://www.ru.nl/personen/gerven-m-van/) and [Danijar Hafner](https://danijar.com)
+  <br/><br/>
 
-  - lab roation with Umut [Güçlü](https://www.ru.nl/english/people/guclu-u/) on asynchronous advantage actor-critic (A3C) algorithms
+* **Student Assistant at the Data Science Department of Radboud University** (2021 - Present) <img align="right" src="/assets/logo-radboud2.jpg" width="150"
+      - working on procedural assignment generation and improving integration Nbgrader (autograding) software
+      - working with [Ioan Gabriel Bucur](https://www.cs.ru.nl/~gbucur/)
+      - focusing on the courses statistical machine learning and data mining
+    <br/><br/>
 
-* **Research at Maastricht University** (2018 - 2019) <img align="right" src="/assets/EDLAB-logo-UM2.jpg" width="180">
+* **Lab roation at the Donders Institue for Brain, Cognition and Behaviour** (2018 - 2019) <img align="right" src="donders_logo.jpg" width="155">
+    - working with [Umut Güçlü](https://www.ru.nl/english/people/guclu-u/) on asynchronous advantage actor-critic (A3C) algorithms
+    - working with [Pablo Lanillos](https://www.ru.nl/english/people/lanillos-p/) on Active Inference
+  <br/><br/>
+
+* **Bachelor thesis research at Maastricht University** (2018 - 2019) <img align="right" src="/assets/EDLAB-logo-UM2.jpg" width="180">
   - working on convolutional neural networks optimized for multi-modal scene recognition
   - re-using a network pretrained on the places205 dataset (natural images) for clip art and sketches
   - implemented using Tensorflow
 <br/><br/>
 
-* **Research at Mainz University** (2014) <img align="right" src="/assets/JGU2.jpg" width="180">
-
-  - project title 'the determinants of cooperation and behavior of children in public good games'
+* **Research Assistant at Mainz University** (2014) <img align="right" src="/assets/JGU2.jpg" width="180">
+  - determining determinants of cooperation in public good games
   - in cooperation with the Faculty of Business and Economics Management and Microeconomics at Goethe-University
-  - planning, coordination, documentation and analysis of the results during quantiative experiment about cooperation
+  - planning, coordination, documentation and analysis of the results
 
 # Projects
-
 * **Master Thesis (ongoing)** (Donders Institut and Radboud University)
 * **AutoMATE**  (Data Science Department, Radboud University)
 * **World Model Agents** (Radboud University, Natural Computing)
