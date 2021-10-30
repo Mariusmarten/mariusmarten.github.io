@@ -59,7 +59,7 @@ My overall interest lies in unsupervised representation learning and its link to
 
 
 # Research Experience  
-* **Graduate Research Intern at the Donders Institue for Brain, Cognition and Behaviour** (2021 - Present) <img align="right" src="/assets/donders_logo.jpg" width="155">
+* **Graduate Research Intern at the Donders Institute for Brain, Cognition and Behaviour** (2021 - Present) <img align="right" src="/assets/donders_logo.jpg" width="155">
     - working on model-based reinforcement learning with a special, improving agent internal goal functions to facilitate long horizon planning
     - with [Marcel van Gerven](https://www.ru.nl/personen/gerven-m-van/) and [Danijar Hafner](https://danijar.com)
   <br/><br/>
