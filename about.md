@@ -89,13 +89,13 @@ My overall interest lies in unsupervised representation learning and its link to
 
 
 # Projects
-* **Master Thesis (ongoing)** (Donders Institut and Radboud University)
+* **Master Thesis (ongoing)** (Donders Institut and Radboud University) [[Blog](https://mariusmarten.github.io/Master-thesis)]
 * **AutoMATE (ongoing)**  (Data Science Department, Radboud University)
-* **World Model Agents** (Radboud University, Natural Computing course)
+* **World Model Agents** (Radboud University, Natural Computing course) [[Blog](https://mariusmarten.github.io/World-Model-Agents)]
 * **Active Inference Notebook** (Radboud University, Lab rotation) [[GitHub](https://github.com/pl-robotdecision/tutorials-active-inference/blob/main/exercises/1_FEP_TheSensingWheel_Perception_exercise.ipynb)]
-* **Neuromorphic Active Inference Agents** (Radboud University, Neuromorphic Computing course)
-* **A3C Agents** (Radboud University, Neural Information Processing course and Lab rotation) [Blog](https://mariusmarten.github.io/Multi-Source%20Domain%20Adaptation%20-%20MaRBLe%20Research%202018/19)
-* **Multi-Source Domain Adaptation** (Maastricht University, Bachelor thesis) [[Paper]({{mariusmarten.github.io}}/projects/BT_TransferLearning_CN.pdf) / [Poster]({{mariusmarten.github.io}}/projects/2019_Poster_MaRBLe.pdf) / [Blog](https://mariusmarten.github.io/Multi-Source%20Domain%20Adaptation%20-%20MaRBLe%20Research%202018/19)]
+* **Neuromorphic Active Inference Agents** (Radboud University, Neuromorphic Computing course) [[Blog](https://mariusmarten.github.io/Neuromorphic-Active-Inference-Agents)]
+* **A3C Agents** (Radboud University, Neural Information Processing course and Lab rotation) [[Blog](https://mariusmarten.github.io/A3C-Agents)]
+* **Multi-Source Domain Adaptation** (Maastricht University, Bachelor thesis) [[Paper]({{mariusmarten.github.io}}/projects/BT_TransferLearning_CN.pdf) / [Poster]({{mariusmarten.github.io}}/projects/2019_Poster_MaRBLe.pdf) / [Blog](https://mariusmarten.github.io/Multi-Source-Domain-Adaptation)]
 
 
 # Teaching Experience
