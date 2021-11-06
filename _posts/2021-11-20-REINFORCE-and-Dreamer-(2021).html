@@ -4,19 +4,21 @@ excerpt: Donders Institute for Brain, Cognition and Behaviour - NeurIPS course
 permalink: /Reinforce-and-Dreamer
 published: true
 images:
-  - url: /assets/1_representation_network.png
+  - url: /assets/DreamerBanner.png
 ---
 <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
 
-<h2><u>Introduction </u></h2>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Humans are able to recognize scenes independently of the modality they perceive it in. In this paper, it is tested if scene specific features extracted from natural images are reusable for classifying clip art and sketches. Further, the ability of networks to hold multiple representations simultaneously is examined. To study this problem a pretrained convolutional neural network is used. Further, a randomly initialized classifier is added and retrained. The representations of clip art achieve the highest results, followed by sketches. Natural image performance remains notably below prior results. The experiment suggests that the overall transferability of learned features is not only limited by the distance but also by the diversity of the input distribution. Moreover, a multimodal representation is shown to be feasible but only poorly. Further research is needed to explain the obtained outcomes and to explain why they deviate from previous expectations.
+<h2><u>Content </u></h2>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this work, we compare the world-model based learning agent Dreamerv2 with both evolutionary strategies and the Monte- Carlo policy gradient (REINFORCE) method. Dreamer is a model-based reinforcement model that learns a so-called ’world model’. The world model is a compact latent space representation of complex environment dynamics. This world model allows the agent to learn optimal policies within this latent space before applying them in the actual environment. The learning process can thus be separated into three distinct phases: the world model learning, the actor-critic learning, and of course applying the learned dynamics in the actual environment. The model is visualized in the image below:
 
+<p><img src="/assets/DreamerBanner.png" /></p>
 
-<p>The figure shows a kitchen and an office (concepts) acrossdifferent modalities (clip art, sketches and natural images)..</p>
+<p>All models are trained either on the Pong-v0 or Pinball Atari environments. We also provide the results of a random agent as a baseline. An example frame of the Pong-v0 game can be seen below.</p>
 
-<h2><u>Can you recognize scenes across different styles? </u></h2>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The  input  variables  consist  of  natural  images  from  theScene205  dataset  collected  and  curated  by  B.  Zhou  et  al.(2014).   An  exhaustive  list  of  the  classes  can  be  found  inappendix 1. The set contains around 2.5 million images from205 scene categories.  The compressed file contains resized 256*256  images,  split  into  a  train  set  and  a  validation  setof Places 205 with a size of 126GB. Due to computationallimitations the number of pictures is reduced to around 80pictures  per  object,  so  that  16,400  pictures  remain.    Thesketch images consist of 14,830 training and 2,050 valida-tion  sketches  collected  through  Amazon  Mechanical  Turk,whereby different colors indicate different objects.  The clipart  data  includes  11,372  training  and  1,954  validation  clipart images downloaded from search engines.  Sketches andclip  art  were  assembled  by  Aytar  et  al.  (2018). </em></p>
+<p><img src="/assets/PongGame.png" /></p>
 
-<h2><u>Conclusion</u></h2>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The representations stored within the pretrained ConvNet are reusable for classifying clipart and sketches. All models performed best on the domain they were trained on. The representations of clip art achieve the high- est results, followed by sketches. Natural image performance remains notably below prior results.
-<p><img src="/assets//1_results.jpg" /></p>
+<p>We compare the different implementations in terms of model complexity, training time and final performance. We further investigate Dreamers sensitivity to changing the size of categorical latent space.</p>
+
+<p><img src="/assets/dreamer-results-pong.png" /></p>
+
+<p> Main reference: <a href="https://arxiv.org/abs/2010.02193">Mastering Atari with Discrete World Models</a></p>

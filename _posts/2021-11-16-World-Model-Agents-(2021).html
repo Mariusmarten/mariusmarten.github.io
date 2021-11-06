@@ -11,12 +11,14 @@ images:
 <h2><u>Introduction </u></h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this study, an altered version of the World Model by Ha and Schmidhuber was implemented on top of the OpenAI gym version of MsPacman. This altered World Model consisted of a variation of the original RNN, because the VAE was replaced by a different low dimensional latent space representation. The figure below displays the VAE reconstruction for the first 90 epochs of the training. The left image al- ways shows the actual environment state while the right image shows the reconstruction. The environment is perfectly recreated but the ghosts are missing.
 
-<p><img src="/assets/reconstruction.pdf" /></p>
+<p><img src="/assets/reconstruction.png" class="center" /></p>
 
 <p>The goal of the study was to test the ability of several natural computing algorithms to learn optimal parameters for the controller component which navigates the agent. The chosen algorithms consisted of a sequence mutation algorithm, genetic algorithm, and covariance matrix adaptation evolutionary strategy. These different natural computing algorithms were evaluated in terms of score, complexity and learned behavior, under different hyperparameter configurations. After this analysis it was found out that the best configuration in terms of average score was achieved by the CMA-ES which only used state information as input. However, the configuration with a CMA-ES which also utilized temporal information input, did result in a lower score but was superior in terms of behavior, since it showed more human-like behavior and displayed awareness of its surroundings and the behavior of adversary agents. The image displays the World Model architecture. </p>
 
-<p><img src="/assets/world-model-NC.png" /></p>
+<p><img src="/assets/world-model-NC.png" class="center" /></p>
 
 <p> The RNN (temporal information) does add significant extra computational complexity to this configuration, but it is believed that the shown ehavior and potential of the method (the method was still improving and did not reach convergence yet) outweigh this. Results are summarized in the table below.</p>
 
-<p><img src="/assets/MsPacman-results.png" /></p>
+<p><img src="/assets/MsPacman-results.png" class="center" /></p>
+
+<p>Main reference: <a href="https://arxiv.org/abs/1803.10122">World Models</a></p>
