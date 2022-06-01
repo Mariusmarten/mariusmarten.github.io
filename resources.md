@@ -21,8 +21,9 @@ A collection of resources for Computational Neuroscience, Machine Learning and C
 - Cover and Thomas [Elements Of
 Information Theory](http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf) textbook
 - MacKays [Information Theory, Inference and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf) textbook and his [lectures](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
-- Grünwalds [Minimum Description Length Principle](https://mitpress.mit.edu/books/minimum-description-length-principle) textbook and his [course](https://homepages.cwi.nl/~pdg/teaching/inflearn/index.html)
-- Bamlers [course](https://robamler.github.io/teaching/compress21/) on Neural compression
+- Grünwalds [Minimum Description Length Principle](https://mitpress.mit.edu/books/minimum-description-length-principle) textbook and his [Information-Theoretic Learning](https://homepages.cwi.nl/~pdg/teaching/inflearn/index.html) course (Leiden)
+- Walters [Introduction to Information Theory](https://qi.ruhr-uni-bochum.de/iit20/) course (Ruhr prev. Amsterdam)
+- Bamlers [Neural compression](https://robamler.github.io/teaching/compress21/) course (Tübingen)
 
 ### Reinforcement Learning and Control
 - Sutton and Barto’s [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/RLbook2018.pdf) textbook
