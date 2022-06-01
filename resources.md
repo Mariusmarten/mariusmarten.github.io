@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-A collection of resources for Computational Neuroscience, Machine Learning and Complex Systems, I find useful or interesting.
+A collection of resources that I find useful or interesting.
 
 ### Machine Learning
 - MacKays [Information Theory, Inference and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf) textbook and his [lectures](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
